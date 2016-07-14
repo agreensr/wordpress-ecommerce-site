@@ -1,0 +1,470 @@
+# Translation of Storefront in Romanian
+# This file is distributed under the same license as the Storefront package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-04-30 10:00:26+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < 20)) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.1.0-alpha\n"
+"Project-Id-Version: Storefront\n"
+
+#. Description of the plugin/theme
+msgid "Storefront is the perfect theme for your next WooCommerce project. Designed and developed by WooThemes, it features a deep integration with our market leading WooCommerce plugin, several layout & color options to personalise your shop, multiple widget regions, a responsive design and much more. Developers will love it's lean and extensible codebase making it a joy to customise and extend. Looking for a WooCommerce theme? Look no further!"
+msgstr "Storefront este tema perfectă pentru proiectul tău WooCommerce următor. Proiectată și dezvoltată de WooThemes, evidențiază o integrare profundă cu modulul nostru principal de piață WooCommerce, mai multe aranjamente și opțiuni de culoare pentru a-ți personaliza magazinul, zone multiple pentru piese, un design responsiv și multe altele. Dezvoltatorii îi vor iubi sprijinul și codul de bază extensibil, fiind o bucurie în a personaliza și extinde. Cauți o temă WooCommerce? Nu mai căuta!"
+
+#. Theme Name of the plugin/theme
+msgid "Storefront"
+msgstr "Storefront"
+
+#: inc/functions/setup.php:114
+msgid "Below Header"
+msgstr "Sub antet"
+
+#: inc/customizer/controls/more.php:20
+msgid "Enjoying %s?"
+msgstr "Îți place %s?"
+
+#: inc/admin/welcome-screen/sections/intro.php:57
+msgid "Customizer settings"
+msgstr "Setări personalizator"
+
+#: inc/admin/welcome-screen/sections/intro.php:30
+msgid "Latest %s news"
+msgstr "Ultimele noutăți %s"
+
+#: inc/admin/welcome-screen/sections/intro.php:33
+msgid "Recent News"
+msgstr "Știri recente"
+
+#: inc/admin/welcome-screen/sections/intro.php:53
+msgid "Featured Docs"
+msgstr "Documente reprezentative"
+
+#: inc/admin/welcome-screen/sections/intro.php:55
+msgid "Installation &amp; configuration"
+msgstr "Instalare &amp; configurare"
+
+#: inc/admin/welcome-screen/sections/intro.php:56
+msgid "FAQ"
+msgstr "Întrebări frecvente"
+
+#: inc/admin/welcome-screen/sections/intro.php:23
+msgid "%s is activated"
+msgstr "%s este activat"
+
+#: inc/admin/welcome-screen/sections/contribute.php:11
+msgid "Contribute to Storefront"
+msgstr "Contribuie la Storefront"
+
+#: inc/admin/welcome-screen/sections/contribute.php:16
+msgid "Suggest a feature"
+msgstr "Sugerează o funcționalitate"
+
+#: inc/admin/welcome-screen/sections/contribute.php:17
+msgid "Please suggest and vote on ideas at the %s%s Ideas board%s. The most popular ideas will see prioritised development."
+msgstr "Te rog sugerează și votează idei la %s%s Comisia pentru idei%s. Cele mai populare idei vor fi dezvoltate cu prioritate."
+
+#: inc/admin/welcome-screen/sections/contribute.php:22
+msgid "An %s project"
+msgstr "Un proiect %s"
+
+#: inc/admin/welcome-screen/sections/enhance.php:12
+msgid "Enhance %s"
+msgstr "Îmbunătățește %s"
+
+#: inc/admin/welcome-screen/sections/enhance.php:14
+msgid "Take a look at our range of extensions that compliment and extend %s functionality."
+msgstr "Uită-te la gama noastră de extensii care complimentează și extind funcționalitatea %s."
+
+#: inc/admin/welcome-screen/sections/enhance.php:30
+msgid "View all %s extensions &rarr;"
+msgstr "Vezi toate extensiile %s &rarr;"
+
+#: inc/admin/welcome-screen/sections/enhance.php:38
+msgid "There are a number of free plugins available for %s on the WordPress.org %splugin repository%s. Here are just a few:"
+msgstr "Există un număr de module gratuite disponibile pentru %s în %sdepozitar modul%s WordPress.org. Iată doar câteva:"
+
+#: inc/admin/welcome-screen/sections/enhance.php:50
+msgid "Child themes"
+msgstr "Teme copil"
+
+#: inc/admin/welcome-screen/sections/enhance.php:51
+msgid "Take a look at our range of child themes for %s that allow you to easily change the look of your store to suit a specific industry."
+msgstr "Uită-te la gama noastră de teme copil pentru %s care îți permit să modifici cu ușurință aspectul magazinului tău pentru a se potrivi cu o anumită industrie."
+
+#: inc/admin/welcome-screen/sections/enhance.php:83
+msgid "View all %s child themes &rarr;"
+msgstr "Vezi toate temele copil %s &rarr;"
+
+#: inc/admin/welcome-screen/sections/intro.php:14
+msgid "%sEnjoying %s?%s Why not %sleave a review%s on WordPress.org? We'd really appreciate it!"
+msgstr "%sÎți place %s?%s De ce nu %slași o recenzie%s pe WordPress.org? Am aprecia cu adevarat!"
+
+#: inc/admin/welcome-screen/sections/intro.php:18
+msgid "Built to enrich your %s store"
+msgstr "Construit pentru a-ți îmbogăți magazinul %s"
+
+#: inc/admin/welcome-screen/sections/intro.php:25
+msgid "Install %s"
+msgstr "Instalează %s"
+
+#: inc/woocommerce/template-tags.php:160
+msgid "New In Store"
+msgstr "Nou în magazin"
+
+#: inc/woocommerce/template-tags.php:152
+msgid "On Sale Now"
+msgstr "De vânzare acum"
+
+#: inc/structure/post.php:116
+msgctxt "Previous post"
+msgid "Previous"
+msgstr "Anterior"
+
+#: inc/structure/post.php:115
+msgctxt "Next post"
+msgid "Next"
+msgstr "Următor"
+
+#: inc/customizer/controls.php:124
+msgid "Header background image"
+msgstr "Imagine fundal antet"
+
+#: inc/admin/welcome-screen/sections/enhance.php:36
+msgid "Install free plugins"
+msgstr "Instalează module gratuite"
+
+#: inc/admin/welcome-screen/sections/enhance.php:77
+msgid "Free!"
+msgstr "Gratuit!"
+
+#: inc/admin/welcome-screen/sections/enhance.php:55
+#: inc/admin/welcome-screen/sections/enhance.php:62
+msgid "Proshop Child Theme"
+msgstr "Temă copil Proshop"
+
+#: 404.php:22
+msgid "Nothing was found at this location. Try searching, or check out the links below."
+msgstr "Nu a fost găsit nimic la această locație. Încearcă să cauți sau verifică legăturile de mai jos."
+
+#: 404.php:54
+msgid "Popular Products"
+msgstr "Produse populare"
+
+#. Template Name of the plugin/theme
+msgid "Homepage"
+msgstr "Prima pagină"
+
+#. Template Name of the plugin/theme
+msgid "Full width"
+msgstr "Lățime completă"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Rezultatele căutării după: %s"
+
+#: inc/woocommerce/template-tags.php:19
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d element"
+msgstr[1] "%d elemente"
+msgstr[2] "%d de elemente"
+
+#: inc/structure/template-tags.php:187
+msgid "On Sale"
+msgstr "De vânzare"
+
+#: inc/woocommerce/template-tags.php:18
+msgid "View your shopping cart"
+msgstr "Vizualizează-ți coșul de cumpărături"
+
+#: inc/structure/template-tags.php:148
+msgid "Top Rated Products"
+msgstr "Produse cel mai mult evaluate"
+
+#: inc/structure/template-tags.php:107 inc/woocommerce/template-tags.php:144
+msgid "Featured Products"
+msgstr "Produse reprezentative"
+
+#: 404.php:45 inc/structure/template-tags.php:26
+msgid "Product Categories"
+msgstr "Categorii de produse"
+
+#: inc/structure/template-tags.php:67
+msgid "Recent Products"
+msgstr "Produse recente"
+
+#: inc/structure/post.php:159
+msgctxt "post author"
+msgid "by %s"
+msgstr "de %s"
+
+#: inc/structure/post.php:154
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Publicat pe %s"
+
+#: inc/structure/post.php:99
+msgid "% Comments"
+msgstr "% comentarii"
+
+#: inc/structure/post.php:99
+msgid "1 Comment"
+msgstr "Un comentariu"
+
+#: inc/structure/post.php:99
+msgid "Leave a comment"
+msgstr "Lasă un comentariu"
+
+#: inc/structure/post.php:90
+msgid "Tags: "
+msgstr "Etichete:"
+
+#: inc/structure/post.php:77
+msgid "Categories: "
+msgstr "Categorii:"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/structure/post.php:72 inc/structure/post.php:85
+msgid ", "
+msgstr ", "
+
+#: inc/structure/post.php:45
+msgid "Continue reading %s"
+msgstr "Continuă să citești %s"
+
+#: inc/structure/page.php:36 inc/structure/post.php:51
+msgid "Pages:"
+msgstr "Pagini:"
+
+#: inc/structure/header.php:107
+msgid "Skip to content"
+msgstr "Sari la conținut"
+
+#: inc/structure/header.php:84
+msgid "Secondary Navigation"
+msgstr "Navigare secundară"
+
+#: inc/structure/header.php:106
+msgid "Skip to navigation"
+msgstr "Sari la navigare"
+
+#: inc/structure/header.php:55
+msgid "Navigation"
+msgstr "Navigare"
+
+#: inc/structure/header.php:54
+msgid "Primary Navigation"
+msgstr "Navigare principală"
+
+#: inc/structure/footer.php:60
+msgid "%1$s designed by %2$s."
+msgstr "%1$s realizat de %2$s."
+
+#: inc/structure/comments.php:59
+msgid "Edit"
+msgstr "Editează"
+
+#: inc/structure/comments.php:43
+msgid "Your comment is awaiting moderation."
+msgstr "Comentariul tău așteaptă moderare."
+
+#: inc/structure/comments.php:40
+msgid "<cite class=\"fn\">%s</cite>"
+msgstr "<cite class=\"fn\">%s</cite>"
+
+#: inc/functions/setup.php:129
+msgid "Widgetized Footer Region %d."
+msgstr "Zonă asamblabilă subsol %d."
+
+#: inc/functions/setup.php:127
+msgid "Footer %d"
+msgstr "Subsol %d"
+
+#: inc/functions/setup.php:104
+msgid "Sidebar"
+msgstr "Bară laterală"
+
+#: inc/functions/setup.php:62
+msgid "Handheld Menu"
+msgstr "Meniu portabil"
+
+#: inc/functions/setup.php:61
+msgid "Secondary Menu"
+msgstr "Meniu secundar"
+
+#: inc/functions/setup.php:60
+msgid "Primary Menu"
+msgstr "Meniu principal"
+
+#: inc/customizer/controls.php:358
+msgid "Looking for more options?"
+msgstr "Cauți mai multe opțiuni?"
+
+#: inc/customizer/controls.php:348
+msgid "More"
+msgstr "Mai multe"
+
+#: inc/customizer/controls.php:335
+msgid "General Layout"
+msgstr "Aranjament general"
+
+#: inc/customizer/controls.php:323
+msgid "Layout"
+msgstr "Aranjament"
+
+#: inc/customizer/controls.php:298
+msgid "Alternate button background color"
+msgstr "Culoare fundal buton alternativ"
+
+#: inc/customizer/controls.php:313
+msgid "Alternate button text color"
+msgstr "Culoare text butonul alternativ"
+
+#: inc/customizer/controls.php:254
+msgid "Buttons"
+msgstr "Butoane"
+
+#: inc/customizer/controls.php:256
+msgid "Customise the look & feel of your web site buttons."
+msgstr "Personalizează aspectul și atingerea butoanelor de pe situl tău web."
+
+#: inc/customizer/controls.php:182
+msgid "Customise the look & feel of your web site footer."
+msgstr "Personalizează aspectul și atingerea subsolului din situl tău web."
+
+#: inc/customizer/controls.php:180
+msgid "Footer"
+msgstr "Subsol"
+
+#: inc/customizer/controls.php:170 inc/customizer/controls.php:243
+msgid "Link color"
+msgstr "Culoare legătură"
+
+#: inc/customizer/controls.php:138 inc/customizer/controls.php:195
+#: inc/customizer/controls.php:268
+msgid "Background color"
+msgstr "Culoare fundal"
+
+#: inc/customizer/controls.php:110
+msgid "Looking to add a logo? Install the %sJetpack%s plugin! %sRead more%s."
+msgstr "Cauți să adaugi un logo? Instalează modulul %sJetpack%s! %sCitește mai mult%s."
+
+#: inc/customizer/controls.php:103
+msgid "Logo"
+msgstr "Logo"
+
+#: inc/customizer/controls.php:59 inc/customizer/controls.php:211
+msgid "Heading color"
+msgstr "Culoare antet"
+
+#: inc/customizer/controls.php:75 inc/customizer/controls.php:154
+#: inc/customizer/controls.php:227 inc/customizer/controls.php:283
+msgid "Text color"
+msgstr "Culoare text"
+
+#: inc/customizer/controls.php:90
+msgid "Link / accent color"
+msgstr "Culoare legătură / subliniere"
+
+#: inc/customizer/controls.php:45
+msgid "Typography"
+msgstr "Tipografice"
+
+#: inc/customizer/controls.php:28
+msgid "Header"
+msgstr "Antet"
+
+#: inc/customizer/controls.php:24
+msgid "Background"
+msgstr "Fundal"
+
+#: inc/customizer/controls/more.php:23
+msgid "Why not leave us a review on %sWordPress.org%s?  We'd really appreciate it!"
+msgstr "De ce nu ne lași o recenzie pe %sWordPress.org%s? Am aprecia cu adevarat!"
+
+#: inc/customizer/controls/more.php:16
+msgid "There's a range of %s extensions available to put additional power in your hands. Check out the %s%s%s page in your dashboard for more information."
+msgstr "Există o gamă variată de extensii disponibile %s pentru a pune putere suplimentară în mâinile tale. Pentru mai multe informații, verifică pagina %s%s%s în panoul tău de control."
+
+#: inc/admin/welcome-screen/welcome-screen.php:44
+msgid "Thanks for choosing Storefront! You can read hints and tips on how get the most out of your new theme on the %swelcome screen%s."
+msgstr "Îți mulțumim că ai ales Storefront! Poți să citești sugestii și sfaturi despre cum poți profita la maxim de noua ta temă pe %secranul de bun venit%s."
+
+#: inc/admin/welcome-screen/welcome-screen.php:45
+msgid "Get started with Storefront"
+msgstr "Începe să folosești Storefront"
+
+#: inc/admin/welcome-screen/sections/contribute.php:12
+msgid "Found a bug? Want to contribute a patch or create a new feature? %sGitHub is the place to go!%s Or would you like to translate %s into your language? %sGet involved on WordPress.org%s."
+msgstr "Ai găsit o eroare? Vrei să contribui cu o bucățică sau să creezi o funcționalitate nouă? %sGitHub este locul unde trebuie să mergi!%s Sau vrei să traduci %s în limba ta? %sImplică-te pe WordPress.org%s."
+
+#: inc/admin/welcome-screen/sections/intro.php:20
+msgid "Although %s works fine as a regular WordPress theme, it really shines when used for an online store. Install %s and start selling now."
+msgstr "Cu toate că %s funcționează bine ca temă obișnuită WordPress, ea strălucește cu adevărat atunci când este utilizată pentru un magazin online. Instalează %s și începe să vinzi acum."
+
+#: inc/admin/welcome-screen/sections/enhance.php:76
+msgid "Boutique Child Theme"
+msgstr "Temă copil Boutique"
+
+#: inc/admin/welcome-screen/sections/enhance.php:69
+msgid "Galleria Child Theme"
+msgstr "Temă copil Galleria"
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Se pare că nu putem găsi ceea ce cauți. Probabil căutarea poate ajuta."
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Regret, dar nimic nu s-a potrivit cu termenii tăi de căutare. Te rog încearcă din nou cu unele cuvinte cheie diferite."
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Gata pentru primul articol? <a href=\"%1$s\">Începe de aici</a>."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "Nu s-a găsit nimic"
+
+#: comments.php:60
+msgid "Comments are closed."
+msgstr "Comentariile nu sunt permise."
+
+#: comments.php:35 comments.php:53
+msgid "Newer Comments &rarr;"
+msgstr "Comentarii mai noi &rarr;"
+
+#: comments.php:34 comments.php:52
+msgid "&larr; Older Comments"
+msgstr "&larr; comentarii mai vechi"
+
+#: comments.php:33 comments.php:51
+msgid "Comment navigation"
+msgstr "Navigare în comentariu"
+
+#: comments.php:26
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Un comentariu la &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s comentarii la &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s de comentarii la &ldquo;%2$s&rdquo;"
+
+#: 404.php:19
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Hopa! Această pagină nu poate fi găsită."
+
+#. Author of the plugin/theme
+msgid "WooThemes"
+msgstr "WooThemes"
+
+#. Author URI of the plugin/theme
+msgid "http://www.woothemes.com"
+msgstr "http://www.woothemes.com"
+
+#. Theme URI of the plugin/theme
+msgid "http://www.woothemes.com/storefront"
+msgstr "http://www.woothemes.com/storefront"

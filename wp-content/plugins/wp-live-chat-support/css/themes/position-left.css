@@ -1,0 +1,46 @@
+
+#wplc_hovercard.modern {
+    bottom: 300px;
+    left: 93px;
+}
+
+
+
+#wplc_hovercard:before {
+content: "";
+    position: absolute;
+    left: -9px;
+    top: 40px;
+    border-width: 9px 9px 9px 0;
+    border-style: solid;
+    border-color: transparent #ccc;
+    display: block;
+    width: 0;
+    right:auto;
+    bottom:auto;
+}
+#wplc_hovercard:after {
+content: "";
+    position: absolute;
+    left: -8px;
+    top: 41px;
+    border-width: 8px 8px 8px 0;
+    border-style: solid;
+    border-color: transparent #FFF;
+    display: block;
+    width: 0;
+    right:auto;
+    bottom:auto;
+}
+
+.modern #wp-live-chat-2 {
+    left:0 !important;
+    right:auto;
+}
+
+.modern #wp-live-chat-4 {
+    left:0 !important;
+    right:auto;
+}
+
+

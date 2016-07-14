@@ -1,0 +1,1961 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wplivechat\n"
+"POT-Creation-Date: 2015-03-16 07:56+0200\n"
+"PO-Revision-Date: 2015-10-14 14:17+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fi_FI\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: C:\\wamp\\www\\wordpress\\wp-content\\plugins\\wp-"
+"live-chat-support\n"
+"X-Poedit-SearchPath-1: C:\\wamp\\www\\wordpress\\wp-content\\plugins\\wp-"
+"live-chat-support-pro\n"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/ajax-pro.php:264
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/ajax.php:228
+#, fuzzy
+msgid "Admin has closed and ended the chat"
+msgstr "Ylläpitäjä on päättänyt keskustelun"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/ajax-pro.php:299
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/ajax.php:252
+#, fuzzy
+msgid "There is No Answer. Please Try Again Later"
+msgstr "Ei vastausta. Olkaa hyvä ja kokeilkaa myöhemmin uudestaan."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:23
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:892
+#, fuzzy
+msgid "Visitors on site"
+msgstr "Kävijöitä sivulla"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:40
+#, fuzzy
+msgid "Initiate Chat"
+msgstr "Aloita keskustelu"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:42
+#, fuzzy
+msgid "You must be a chat agent to initiate chats"
+msgstr ""
+"Sinun tulee olla valtuutettu keskustelija jotta voit aloittaa chat-"
+"keskustelun"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:53
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:205
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:1118
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/functions.php:205
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:958
+#, fuzzy
+msgid "IP Address not recorded"
+msgstr "IP-osoitetta ei tallennettu"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:55
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:207
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:1120
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/functions.php:207
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:960
+#, fuzzy
+msgid "Whois for"
+msgstr "Whois …"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:87
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:257
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:1157
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/functions.php:241
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:982
+#, fuzzy
+msgid "Site Info"
+msgstr "Sivun tiedot"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:89
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:259
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:1159
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/functions.php:243
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:984
+#, fuzzy
+msgid "Chat initiated on:"
+msgstr "Keskustelu aloitettu:"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:93
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:263
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:1163
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/functions.php:247
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:988
+#, fuzzy
+msgid "Advanced Info"
+msgstr "Lisätiedot"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:95
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:265
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:1165
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/functions.php:249
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:990
+#, fuzzy
+msgid "Browser:"
+msgstr "Selain:"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:96
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:266
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:1166
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/functions.php:250
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:991
+#, fuzzy
+msgid "IP Address:"
+msgstr "IP-osoite:"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:139
+#, fuzzy
+msgid "No visitors on-line at the moment"
+msgstr "Tällä hetkellä sivulla ei ole kävijöitä"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:182
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/functions.php:188
+#, fuzzy
+msgid "No chat sessions available at the moment"
+msgstr "Tällä hetkellä ei ole vapaita keskusteluita"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:184
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/functions.php:190
+#, fuzzy
+msgid "Active Chats"
+msgstr "Aktiiviset keskustelut"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:213
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/functions.php:212
+#, fuzzy
+msgid "Accept Chat"
+msgstr "Aloita keskustelu"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:215
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/functions.php:214
+#, fuzzy
+msgid "Incoming Chat"
+msgstr "Saapuva chat-keskustelu"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:215
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/functions.php:214
+#, fuzzy
+msgid "You have an incoming chat."
+msgstr "Sivulla on saapuvia chat-keskusteluita."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:219
+#, fuzzy
+msgid "You must be a chat agent to answer chats"
+msgstr ""
+"Sinun tulee olla valtuutettu keskustelija jotta voit ottaa osaa chat-"
+"keskuteluun"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:225
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/functions.php:218
+#, fuzzy
+msgid "Open Chat Window"
+msgstr "Avaa keskusteluikkuna"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:227
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/functions.php:220
+#, fuzzy
+msgid "Chat Active"
+msgstr "Aktiivinen keskustelu"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:227
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/functions.php:220
+msgid "This chat is active"
+msgstr "Tämä keskustelu on aktiivinen"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:229
+#, fuzzy
+msgid "Chat has been answered by another agent"
+msgstr "Toinen keskustelija on vastannut "
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:230
+#, fuzzy
+msgid "Chat answered by another agent"
+msgstr "Toinen keskustelija vastasi "
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:288
+#, fuzzy
+msgid "WP Live Chat Support - Offline Message from "
+msgstr "WP Live Chat Support - offline-viesti kävijältä "
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:289
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:733
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:599
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:767
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:801
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/functions.php:886
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:178
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:499
+#, fuzzy
+msgid "Name"
+msgstr "Nimi"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:289
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:734
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:600
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:768
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:802
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/functions.php:887
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:500
+#, fuzzy
+msgid "Email"
+msgstr "Sähköposti"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:289
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:735
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:803
+#, fuzzy
+msgid "Message"
+msgstr "Viesti"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:289
+#, fuzzy
+msgid "Via WP Live Chat Support"
+msgstr "WP Live Chat Support"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:337
+#, fuzzy
+msgid "Alert: Someone wants to chat with you on "
+msgstr "Hälytys: joku haluaa keskustella kanssasi sivulla "
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:338
+#, fuzzy
+msgid "Someone wants to chat with you on your website"
+msgstr "Joku haluaa keskustella kanssasi www-sivullasi"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:338
+#, fuzzy
+msgid "Log in"
+msgstr "Kirjaudu sisään"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:512
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:528
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:543
+#, fuzzy
+msgid "Chat Agent"
+msgstr "Keskustelija"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:517
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:533
+#, fuzzy
+msgid "Make this user a chat agent"
+msgstr "Tee tästä käyttäjästä keskustelija"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:547
+#, fuzzy
+msgid "Your user role does not allow you to make yourself a chat agent."
+msgstr "Roolisi sivulla estää sinua tekemästä itsestäsi keskustelijaa. "
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:548
+#, fuzzy
+msgid "Please contact the administrator of this website to change this."
+msgstr "Ota yhteyttä sivuston ylläpitäjään tarpeellisen muutoksen tekemiseksi."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:634
+#, fuzzy
+msgid "Chat Agent Online"
+msgstr "Linjoilla olevat keskustelijat"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:636
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:641
+#, fuzzy
+msgid "Chat Agents Online"
+msgstr "Linjoilla olevat keskustelijat"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:732
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:598
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/functions.php:885
+#, fuzzy
+msgid "Date"
+msgstr "Päivämäärä"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/functions-pro.php:749
+#, fuzzy
+msgid "You have not received any offline messages."
+msgstr "Et ole saanut offline-viestejä."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:20
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:5
+#, fuzzy
+msgid "WP Live Chat Support Settings"
+msgstr "WP Live Chat Support -asetukset"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:31
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:19
+#, fuzzy
+msgid "General Settings"
+msgstr "Yleiset asetukset"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:32
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:20
+#, fuzzy
+msgid "Chat Box"
+msgstr "Keskustelulaatikko"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:33
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:262
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:1843
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:21
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:284
+#, fuzzy
+msgid "Offline Messages"
+msgstr "Offline-viestit"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:34
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:361
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:22
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:339
+#, fuzzy
+msgid "Styling"
+msgstr "Tyyli"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:35
+#, fuzzy
+msgid "Chat Agents"
+msgstr "Keskustelijat"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:36
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:552
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:24
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:433
+#, fuzzy
+msgid "Animations"
+msgstr "Animaatiot"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:37
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:25
+#, fuzzy
+msgid "Blocked Visitors"
+msgstr "Estetyt kävijät"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:40
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:28
+#, fuzzy
+msgid "Main Settings"
+msgstr "Pääasetukset"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:43
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:31
+#, fuzzy
+msgid "Chat enabled"
+msgstr "Keskustelu on käytössä"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:46
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:34
+#, fuzzy
+msgid "Yes"
+msgstr "Kyllä"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:47
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:35
+msgid "No"
+msgstr "Nro"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:52
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:40
+#, fuzzy
+msgid "Choose when I want to be online"
+msgstr "Valitse koska olen poissa linjoilta"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:55
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:41
+#, fuzzy
+msgid ""
+"Checking this will allow you to change your status to \"Online\" or \"Offline"
+"\" on the \"Live Chat\" page."
+msgstr ""
+"Valitsemalla tämän voit valita tilaksesi \"linjoilla\" tai \"poissa linjoilta"
+"\" \"keskustelut\"-sivulla."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:60
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:56
+#, fuzzy
+msgid "Hide Chat"
+msgstr "Piilota keskustelu"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:61
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:57
+#, fuzzy
+msgid "Hides chat for 24hrs when user clicks X"
+msgstr "Piilottaa keskusteluikkunen 24 tunniksi kun kävijä klikkaa [X]"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:69
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:73
+#, fuzzy
+msgid "Require Name And Email"
+msgstr "Nimi ja sähköposti tarvitaan"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:70
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:74
+#, fuzzy
+msgid ""
+"Users will have to enter their Name and Email Address when starting a chat"
+msgstr "Kävijöiden tulee antaa keskustelun aluksi oma nimensä ja sähköpostinsa"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:78
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:82
+#, fuzzy
+msgid "Input Field Replacement Text"
+msgstr "Kentän korvaava teksti"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:79
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:83
+#, fuzzy
+msgid "This is the text that will show in place of the Name And Email fields"
+msgstr "Tämä teksti näytetään nimi- ja sähköposti-kenttien tilalla"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:87
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:91
+#, fuzzy
+msgid "Use Logged In User Details"
+msgstr "Käytä kirjautuneen kävijän tietoja."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:88
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:92
+#, fuzzy
+msgid ""
+"A user's Name and Email Address will be used by default if they are logged "
+"in."
+msgstr "Kirjautuneen kävijän nimeä ja sähköpostia käytetään oletuksena."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:96
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:100
+#, fuzzy
+msgid "Enable On Mobile Devices"
+msgstr "Päällä mobiililaitteilla:"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:97
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:101
+#, fuzzy
+msgid ""
+"Disabling this will mean that the Chat Box will not be displayed on mobile "
+"devices. (Smartphones and Tablets)"
+msgstr ""
+"Pois päältä tarkoittaa, että keskusteluikkunaa ei näytetä mobiililaitteilla "
+"(matkapuhelimet ja tabletit)."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:105
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:109
+#, fuzzy
+msgid "Record a visitor's IP Address"
+msgstr "Tallenna kävijän IP-osoite"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:106
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:110
+#, fuzzy
+msgid "Disable this to enable anonymity for your visitors"
+msgstr "Poista käytöstä salliaksesi anonyymit käyttäjät"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:114
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:118
+#, fuzzy
+msgid "Include chat window on the following pages:"
+msgstr "Näytä keskusteluikkuna seuraavilla sivuilla:"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:115
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:119
+#, fuzzy
+msgid ""
+"Show the chat window on the following pages. Leave blank to show on all. "
+"(Use comma-separated Page ID's)"
+msgstr ""
+"Näytä keskusteluikkuna ainoastaan seuraavilla sivuilla. Tyhjänä ikkuna näkyy "
+"kaikilla sivuilla (erota sivujen ID:t pilkulla)"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:119
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:129
+#, fuzzy
+msgid ""
+"Do not include and exclude pages at the same time. Please only use one or "
+"the other"
+msgstr ""
+"Älä valitse ja estä sivuja samanaikaisesti. Tee vain jompi kumpi valinta."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:124
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:134
+#, fuzzy
+msgid "Exclude chat window on the following pages:"
+msgstr "Älä näytä keskusteluikkunaa seuraavilla sivuilla:"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:125
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:135
+#, fuzzy
+msgid ""
+"Do not show the chat window on the following pages. Leave blank to show on "
+"all. (Use comma-separated Page ID's)"
+msgstr ""
+"Älä näytä keskusteluikkunaa seuraavilla sivuilla. Tyhjänä ikkuna näkyy "
+"kaikilla sivuilla (erota sivujen ID:t pilkulla)"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:133
+#, fuzzy
+msgid "Allow any user to make themselves a chat agent"
+msgstr "Anna kaikkien käyttäjien tehdä itsestään keskustelijoita"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:136
+#, fuzzy
+msgid ""
+"Checking this will allow any of your users to make themselves a chat agent "
+"when editing their profile."
+msgstr ""
+"Tällä valinnalla kaikki käyttäjät voivat tehdä itsestään keskustelijoita "
+"omaa profiilia muokkaamalla."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:143
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:153
+#, fuzzy
+msgid "Chat Window Settings"
+msgstr "Keskusteluikkunan asetukset"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:146
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:156
+#, fuzzy
+msgid "Chat box alignment"
+msgstr "Keskusteluikkunan  asettelu"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:149
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:159
+#, fuzzy
+msgid "Bottom left"
+msgstr "Vasen alhaalla"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:150
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:160
+#, fuzzy
+msgid "Bottom right"
+msgstr "Oikea alhaalla"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:151
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:161
+#, fuzzy
+msgid "Left"
+msgstr "Vasen"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:152
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:162
+#, fuzzy
+msgid "Right"
+msgstr "Oikea"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:158
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:168
+#, fuzzy
+msgid "Auto Pop-up"
+msgstr "Ponnahdusikkuna:"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:162
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:172
+#, fuzzy
+msgid ""
+"Expand the chat box automatically (prompts the user to enter their name and "
+"email address)."
+msgstr ""
+"Suurenna keskusteluikkuna automaattisesti (kävijältä pyydetään nimi ja "
+"sähköpostiosoite)"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:168
+msgid "Name "
+msgstr "Nimi"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:182
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:194
+#, fuzzy
+msgid "Picture"
+msgstr "Kuva"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:190
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:197
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:213
+#, fuzzy
+msgid "Upload Image"
+msgstr "Lisää kuva"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:192
+#, fuzzy
+msgid "Remove Image"
+msgstr "Poista kuva"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:193
+#, fuzzy
+msgid "Recomended Size 40px x 40px"
+msgstr "Suositeltu koko 40 pikseliä x 40 pikseliä"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:199
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:210
+#, fuzzy
+msgid "Logo"
+msgstr "Logo"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:207
+#, fuzzy
+msgid "Upload Logo"
+msgstr "Lisää logo"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:209
+#, fuzzy
+msgid "Remove Logo"
+msgstr "Poista logo"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:210
+#, fuzzy
+msgid "Recomended Size 250px x 40px"
+msgstr "Suositeltu koko 250 pikseliä x 40 pikseliä"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:216
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:226
+#, fuzzy
+msgid "Chat delay (seconds)"
+msgstr "Keskustelun viive (sekunttia)"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:219
+#, fuzzy
+msgid "how long it takes for your chat window to pop up"
+msgstr "kuinka pitkään keskusteluikkunan ilmestyminen kestää"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:225
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:242
+#, fuzzy
+msgid "Chat notifications"
+msgstr "Keskusteluilmoitukset"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:229
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:246
+#, fuzzy
+msgid "Alert me via email as soon as someone wants to chat"
+msgstr "Ilmoita sähköpostitse heti kun joku halua keskustella"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:230
+#, fuzzy
+msgid "(while online only)"
+msgstr "(vain kun olet linjoilla)"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:235
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:258
+#, fuzzy
+msgid "Display name and avatar in chat"
+msgstr "Näytä nimi ja kuva keskustelussa:"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:241
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:264
+#, fuzzy
+msgid "Display the agent and user name above each message in the chat window."
+msgstr "Näytä käyttäjän ja kävijän nimi jokaisen keskustelun yläpuolella."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:246
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:269
+#, fuzzy
+msgid "Only show the chat window to users that are logged in"
+msgstr "Keskusteluikkuna näytetään vain kirjautuneille kävijöille:"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:254
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:277
+#, fuzzy
+msgid ""
+"By checking this, only users that are logged in will be able to chat with "
+"you."
+msgstr ""
+"Kun tämä vaihtoehto on valittu, vain kirjautuneet kävijät voivat keskustella "
+"kanssasi."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:266
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:288
+#, fuzzy
+msgid "Do not allow users to send offline messages"
+msgstr "Kävijät eivät voi lähettää offline-viestejä:"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:274
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:292
+#, fuzzy
+msgid ""
+"The chat window will be hidden when it is offline. Users will not be able to "
+"send offline messages to you"
+msgstr ""
+"Ikkuna häivytetään kun chat-keskustelu on poissa linjoilta. Kävijät eivät "
+"voi lähettää offline-viestejä."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:279
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:297
+#, fuzzy
+msgid "Email Address"
+msgstr "Sähköpostiosoite"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:283
+#, fuzzy
+msgid "Email address where offline messages are delivered to"
+msgstr "Sähköpostiosoite, johon offline-viestit toimitetaan"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:284
+#, fuzzy
+msgid ""
+"Use comma separated email addresses to send to more than one email address"
+msgstr "Käytä pilkkua erottaaksesi useammat sähköpostiosoitteet"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:292
+#, fuzzy
+msgid "Sending Method"
+msgstr "Lähetystapa"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:293
+#, fuzzy
+msgid "WP Mail"
+msgstr "WP Mail"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:294
+#, fuzzy
+msgid "PHP Mailer"
+msgstr "PHP Mailer"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:306
+#, fuzzy
+msgid "Host"
+msgstr "Isäntä"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:314
+#, fuzzy
+msgid "Port"
+msgstr "Portti"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:322
+#, fuzzy
+msgid "Username"
+msgstr "Käyttäjänimi"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:330
+#, fuzzy
+msgid "Password"
+msgstr "Salasana"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:339
+#, fuzzy
+msgid "Offline Chat Box Title"
+msgstr "Offline-keskusteluikkunan  otsikko"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:347
+#, fuzzy
+msgid "Offline Text Fields"
+msgstr "Offline-tekstien kentät"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:380
+#, fuzzy
+msgid "Choose a theme"
+msgstr "Valitse teema"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:385
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:386
+#, fuzzy
+msgid "Theme 1"
+msgstr "Teema 1"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:389
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:390
+#, fuzzy
+msgid "Theme 2"
+msgstr "Teema 2"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:393
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:394
+#, fuzzy
+msgid "Theme 3"
+msgstr "Teema 3"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:397
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:398
+#, fuzzy
+msgid "Theme 4"
+msgstr "Teema 4"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:401
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:402
+#, fuzzy
+msgid "Theme 5"
+msgstr "Teema 5"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:405
+#, fuzzy
+msgid "Theme 6"
+msgstr "Teema 6"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:406
+#, fuzzy
+msgid "Custom. Enter Colour Values Below"
+msgstr "Oma valinta. Anna värikoodi alle."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:422
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:359
+#, fuzzy
+msgid "Chat box fill color"
+msgstr "Keskuteluikkunan taustaväri"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:428
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:365
+#, fuzzy
+msgid "Chat box font color"
+msgstr "Keskuteluikkunan tekstin väri"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:442
+#, fuzzy
+msgid "First Section Text"
+msgstr "Tekstin ensimmäinen osa"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:451
+#, fuzzy
+msgid "Intro Text"
+msgstr "Johdanto"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:457
+#, fuzzy
+msgid "Second Section Text"
+msgstr "Tekstin toinen osa"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:464
+#, fuzzy
+msgid "Reactivate Chat Section Text"
+msgstr "Ota käyttöön keskustelun osien tekstit"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:472
+#, fuzzy
+msgid "User chat welcome"
+msgstr "Tervetuloa "
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:481
+#, fuzzy
+msgid "Other text"
+msgstr "Muuta tekstiä"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:483
+#, fuzzy
+msgid "This text is shown above the user chat input field"
+msgstr "Tämä teksti näytetään keskustelukenttien yläpuolella"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:509
+#, fuzzy
+msgid "Current Users that are Chat Agents"
+msgstr "Nykyiset käyttäjät jotka on valtuutettu keskustelemaan"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:523
+#, fuzzy
+msgid ""
+"To add or remove a user as a chat agent, go into the users profile and "
+"select the checkbox Chat Agent and click save."
+msgstr ""
+"Lisätäksesi tai poistaaksesi keskustelun käyttäjän, siirry "
+"käyttäjäprofiileihin, valitse keskustelija ja tallenna asetukset."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:524
+#, fuzzy
+msgid "If there are no chat agents online, the chat will show as offline"
+msgstr ""
+"Jos keskustelun käyttäjiä ei ole linjoilla, keskusteluikkuna ilmoittaa "
+"olevansa poissa linjoilta"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:557
+#, fuzzy
+msgid ""
+"You are using an outdated version of WP Live Chat Support Basic. Please "
+"update your plugin to allow for animations to function"
+msgstr ""
+"Käytät vanhentunutta versiota lisäosasta WP Live Chat Support Basic. Ole "
+"hyvä ja päivitä lisäosa jotta animaatioita voidaan käyttää"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:562
+#, fuzzy
+msgid "Choose an animation"
+msgstr "Valitse animaatio"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:568
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:443
+#, fuzzy
+msgid "Slide Up"
+msgstr "Liuku ylös"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:572
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:447
+#, fuzzy
+msgid "Slide From The Side"
+msgstr "Liuku sivulta"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:576
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:451
+#, fuzzy
+msgid "Fade In"
+msgstr "Häivytys"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:580
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:455
+#, fuzzy
+msgid "No Animation"
+msgstr "Ei animaatiota"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:592
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:463
+#, fuzzy
+msgid "Blocked Visitors - Based on IP Address"
+msgstr "Estetyt kävijät - perustuen IP-osoitteeseen"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:593
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:466
+#, fuzzy
+msgid "Enter each IP Address you would like to block on a new line"
+msgstr "Anna jokainen estettävä IP-osoite omalla rivillään"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:602
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:467
+#, fuzzy
+msgid ""
+"Blocking a user's IP Address here will hide the chat window from them, "
+"preventing them from chatting with you. Each IP Address must be on a new line"
+msgstr ""
+"Kävijän IP-osoitteen estäminen piilottaa keskusteluikkunan, estäen "
+"keskustelut kanssasi. Jokainen IP-osoite tulee olla omalla rivillään"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/includes/settings_page_pro.php:605
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:470
+#, fuzzy
+msgid "Save Settings"
+msgstr "Tallenna asetukset"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:457
+#, fuzzy
+msgid "Dear User"
+msgstr "Hyvä käyttäjä"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:458
+#, fuzzy
+msgid "You are using an outdated version of WP Live Chat Support Basic. Please"
+msgstr ""
+"Käytät vanhentunutta versiota lisäosasta WP Live Chat Support Basic. Ole "
+"hyvä ja"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:458
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:819
+#, fuzzy
+msgid "update to at least version"
+msgstr "päivitä viimeisimpään versioon"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:458
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:819
+#, fuzzy
+msgid "to ensure all functionality is in working order"
+msgstr "varmistetaan, että lisäosa toimii luotettavasti"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:459
+#, fuzzy
+msgid ""
+"You're live chat box on your website has been temporarily disabled until the "
+"basic plugin has been updated. This is to ensure a smooth and hassle-free "
+"user experience for both yourself and your visitors."
+msgstr ""
+"Keskustelut sivullasi poistettiin siksi aikaa käytöstä, kunnes perus-lisäosa "
+"on päivitetty. Tällä pyritään varmistamaan sinulle ja kävijöille ongelmaton "
+"ja sujuva käyttäjäkokemus."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:460
+#, fuzzy
+msgid ""
+"You can update your plugin <a href='./update-core.php'>here</a> or <a "
+"href='./plugins.php'>here</a>."
+msgstr ""
+"Voit päivittää lisäosan <a href='./update-core.php'>täällä</a> tai <a "
+"href='./plugins.php'>täällä</a>."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:461
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:822
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:840
+#, fuzzy
+msgid "If you are having difficulty updating the plugin, please contact"
+msgstr "Jos sinulla on vaikeuksia lisäosan aktivoinnissa, ota meihin yhteyttä "
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:474
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:818
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:831
+#, fuzzy
+msgid "Dear Pro User"
+msgstr "Hyvä Pro-käyttäjä,"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:475
+#, fuzzy
+msgid ""
+"WP Live Chat Support Pro requires WP Live Chat Support to function. You can "
+"download the latest copy from"
+msgstr ""
+"WP Live Chat Support Pro -lisäosa tarvitsee WP Live Chat Support -lisäosan "
+"toimiakseen. Voit ladata viimeisimmän version "
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:487
+#, fuzzy
+msgid "Admin"
+msgstr "Ylläpitäjä"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:491
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:374
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:456
+#, fuzzy
+msgid "Questions?"
+msgstr "Kysymyksiä?"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:492
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:375
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:456
+#, fuzzy
+msgid "Chat with us"
+msgstr "Keskustelu kanssamme!"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:493
+#, fuzzy
+msgid "Start live chat"
+msgstr "Aloita keskustelu"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:494
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:381
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:518
+#, fuzzy
+msgid "Start Chat"
+msgstr "Aloita keskustelu"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:495
+#, fuzzy
+msgid "Connecting. Please be patient..."
+msgstr "Yhdistetään. Odottakaa hetki…"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:496
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:390
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:524
+#, fuzzy
+msgid "Reactivating your previous chat..."
+msgstr "Palataan aiempaan keskusteluun..."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:497
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:315
+#, fuzzy
+msgid "Chat offline. Leave a message"
+msgstr "Keskustelu on poissa linjoilta. Jättäkää viesti"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:498
+#, fuzzy
+msgid "Hello. Please input your details so that I may help you."
+msgstr ""
+"Hei. Ole hyvä ja anna meille hieman tietoja itsestäsi, niin voin olla avuksi."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:499
+#, fuzzy
+msgid ""
+"We are currently offline. Please leave a message and we'll get back to you "
+"shortly."
+msgstr ""
+"Olemme tällä hetkellä poissa linjoilta. Ole hyvä ja lähetä meille viesti "
+"niin otamme yhteyttä."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:500
+#, fuzzy
+msgid "Sending message..."
+msgstr "Lähetään viestiä…"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:501
+#, fuzzy
+msgid "Thank you for your message. We will be in contact soon."
+msgstr "Kiitos viestistä! Olemme pian yhteydessä."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:502
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:529
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:999
+#, fuzzy
+msgid "Press ENTER to send your message"
+msgstr "Painakaa LÄHETÄ viestin lähettämiseksi"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:503
+#, fuzzy
+msgid "Welcome. How may I help you?"
+msgstr "Tervetuloa. Kuinka voin olla avuksi?"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:543
+#, fuzzy
+msgid "You are currently accepting chats"
+msgstr "Et ota tällä hetkellä vastaan keskusteluja"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:544
+#, fuzzy
+msgid "You are not accepting chats"
+msgstr "Et ota vastaan keskusteluja"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:592
+#, fuzzy
+msgid "Delete History"
+msgstr "Poista historia"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:601
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/functions.php:888
+#, fuzzy
+msgid "URL"
+msgstr "URL"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:602
+#, fuzzy
+msgid "Status"
+msgstr "Tila"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:603
+#, fuzzy
+msgid "Action"
+msgstr "Toiminto"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:609
+#, fuzzy
+msgid "No chats available at the moment"
+msgstr "Tällä hetkellä ei ole vapaita keskusteluita"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:617
+#, fuzzy
+msgid "View Chat History"
+msgstr "Tarkastele keskusteluhistoriaa"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:718
+#, fuzzy
+msgid "Minize Chat Window"
+msgstr "Pienennä keskusteluikkuna"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:719
+#, fuzzy
+msgid "Close Chat Window"
+msgstr "Sulje keskusteluikkuna"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:804
+#, fuzzy
+msgid "Send message"
+msgstr "Lähetä viesti"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:830
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:533
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:1013
+#, fuzzy
+msgid "Send"
+msgstr "Lähetä"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:871
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:1452
+#, fuzzy
+msgid "Please click 'Start Chat' to initiate a chat with an agent"
+msgstr ""
+"Painakaa 'Aloita keskustelu' aloittaaksenne keskustelu työntekijämme kanssa"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:997
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:1476
+#, fuzzy
+msgid "Your settings have been saved."
+msgstr "Asetukset on tallennettu."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:1013
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:872
+#, fuzzy
+msgid "Chat sessions"
+msgstr "Chat-keskustelu"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:1015
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:874
+#, fuzzy
+msgid ""
+"Please note: This window must be open in order to receive new chat "
+"notifications."
+msgstr ""
+"Tämä ikkuna tulee pitää avoinna jotta chat-viestien vastaanottaminen on "
+"mahdollista."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:1019
+#, fuzzy
+msgid ""
+"You are not a chat agent. Please make yourself a chat agent before trying to "
+"chat to visitors"
+msgstr ""
+"Sinua ei ole valtuutettu keskustelujen käyttäjäksi. Anna itsellesi valtuudet "
+"ennen kuin yrität keskustella kävijöiden kanssa."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:1113
+#, fuzzy
+msgid "Unknown"
+msgstr "Tuntematon"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:1129
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:966
+#, fuzzy
+msgid "End chat"
+msgstr "Päätä keskustelu"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:1134
+#, fuzzy
+msgid "Attempting to open the chat window... Please be patient."
+msgstr "Yritetään avata keskusteluikkuna… odottakaa hetki."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:1231
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:1593
+#, fuzzy
+msgid "This chat has already been answered. Please close the chat window"
+msgstr "Tähän keskusteluun on jo vastattu. Olkaa hyvä ja sulkekaa ikkuna."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:1299
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:1125
+#, fuzzy
+msgid "User has opened the chat window"
+msgstr "Kävijä on avannut keskusteluikkunan"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:1304
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:1130
+#, fuzzy
+msgid "User has minimized the chat window"
+msgstr "Kävijä on pienentänyt keskusteluikkunan"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:1309
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:1135
+#, fuzzy
+msgid "User has maximized the chat window"
+msgstr "Kävijä on suurentanut keskusteluikkunan"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:1314
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:1140
+#, fuzzy
+msgid "User has closed and ended the chat"
+msgstr "Kävijä on sulkenut ikkunan ja päättänyt keskustelun."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:1692
+#, fuzzy
+msgid ""
+"An Unexpected HTTP Error occurred during the API request.</p> <p><a href=\"?"
+"\" onclick=\"document.location.reload(); return false;\">Try again</a>"
+msgstr ""
+"Odottamaton HTTP-virhe on ilmennyt API-pyynnön yhteydessä.</p> <p><a href=\"?"
+"\" onclick=\"document.location.reload(); return false;\">Kokeile uudestaan</"
+"a>"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:1697
+#, fuzzy
+msgid "An unknown error occurred"
+msgstr "Tuntematon virhe"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:1837
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:256
+#, fuzzy
+msgid "Live Chat"
+msgstr "Chat-keskustelu"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:1838
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:257
+#, fuzzy
+msgid "Settings"
+msgstr "Asetukset"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:1839
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:1857
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:1868
+#, fuzzy
+msgid "Quick Responses"
+msgstr "Pikavastaukset"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:1841
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:258
+#, fuzzy
+msgid "History"
+msgstr "Historia"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:1842
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:259
+#, fuzzy
+msgid "Missed Chats"
+msgstr "Vastaamattomat keskustelut"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:1844
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/feedback-page.php:37
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:260
+#, fuzzy
+msgid "Feedback"
+msgstr "Palaute"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:1848
+#, fuzzy
+msgid "Error Log"
+msgstr "Virheloki"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:1851
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:261
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:1600
+#, fuzzy
+msgid "Support"
+msgstr "Tuki"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:1858
+#, fuzzy
+msgid "Quick Response"
+msgstr "Pikavastaus"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:1859
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:1862
+#, fuzzy
+msgid "New Quick Response"
+msgstr "Uusi pikavastaus"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:1860
+#, fuzzy
+msgid "Add New Quick Response"
+msgstr "Lisää uusi pikavastaus"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:1861
+#, fuzzy
+msgid "Edit Quick Response"
+msgstr "Muokka pikavastausta"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:1863
+#, fuzzy
+msgid "All Quick Responses"
+msgstr "Kaikki pikavastaukset"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:1864
+#, fuzzy
+msgid "View Quick Responses"
+msgstr "Tarkastele pikavastauksia"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:1865
+#, fuzzy
+msgid "Search Quick Responses"
+msgstr "Etsi pikavastauksista"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:1866
+#, fuzzy
+msgid "No Quick Responses found"
+msgstr "Pikavastauksia ei löydetty"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:1867
+#, fuzzy
+msgid "No Quick Responses found in the Trash"
+msgstr "Roskakorista ei löydetty pikavastauksia"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:1872
+#, fuzzy
+msgid "Quick Responses for WP Live Chat Support Pro"
+msgstr "Asennetaan WP Live Chat Support Pro -lisäosa"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:1927
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:1931
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:1000
+#, fuzzy
+msgid "Assign Quick Response"
+msgstr "Lähetä pikavastaus"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:1934
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:1000
+#, fuzzy
+msgid "Select"
+msgstr "Valitse"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support-pro/wp-live-chat-support-pro.php:1940
+#, fuzzy
+msgid "What is this?"
+msgstr "Mitä ovat pikavastaukset?"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/functions.php:566
+#, fuzzy
+msgid "complete"
+msgstr "päättynyt"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/functions.php:569
+#, fuzzy
+msgid "pending"
+msgstr "jonossa"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/functions.php:572
+#, fuzzy
+msgid "active"
+msgstr "aktiivinen"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/functions.php:575
+#, fuzzy
+msgid "deleted"
+msgstr "poistettu"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/functions.php:578
+#, fuzzy
+msgid "browsing"
+msgstr "selaa"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/functions.php:581
+#, fuzzy
+msgid "requesting chat"
+msgstr "otetaan yhteyttä"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/functions.php:584
+#, fuzzy
+msgid "Chat Ended - User still browsing"
+msgstr "Keskustelu on päättynyt - kävijä on vielä sivustolla"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/functions.php:587
+#, fuzzy
+msgid "User is browsing but doesn't want to chat"
+msgstr "Kävijä on sivustolla mutta ei halua keskustella"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/functions.php:671
+#, fuzzy
+msgid "Get Pro Add-on to accept more chats"
+msgstr "Hanki Pro-lisäosa ja käy useita keskusteluita"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/functions.php:915
+#, fuzzy
+msgid "You have not missed any chat requests."
+msgstr "Yhtään keskustelua ei ole jäänyt vastaamatta."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/feedback-page.php:7
+#, fuzzy
+msgid "WP Live Chat Support Feedback"
+msgstr "WP Live Chat Support palaute"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/feedback-page.php:8
+#, fuzzy
+msgid "We'd love to hear your comments and/or suggestions"
+msgstr "Otamme mielellään vastaan palautetta tai parannusajatuksia"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/feedback-page.php:13
+#, fuzzy
+msgid "Your Name"
+msgstr "Nimi:"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/feedback-page.php:21
+#, fuzzy
+msgid "Your Email"
+msgstr "Sähköposti:"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/feedback-page.php:29
+#, fuzzy
+msgid "Your Website"
+msgstr "Kotisivu:"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/feedback-page.php:48
+#, fuzzy
+msgid "Send Feedback"
+msgstr "Lähetä palaute"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:23
+#, fuzzy
+msgid "Agents"
+msgstr "Käyttäjät"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:47
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:63
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:125
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:141
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:184
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:200
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:216
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:232
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:249
+#, fuzzy
+msgid "available in the"
+msgstr "saatavissa kun käytössä on"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:48
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:64
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:126
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:142
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:185
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:201
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:217
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:233
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:250
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:304
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:318
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:394
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:464
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:1391
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:1411
+#, fuzzy
+msgid "Pro Add-on"
+msgstr "Pro-lisäosa"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:49
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:65
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:127
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:143
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:186
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:202
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:218
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:234
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:251
+#, fuzzy
+msgid "only"
+msgstr "vain"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:66
+#, fuzzy
+msgid " once off. Updates included forever."
+msgstr "yhden kerran. Elinikäiset päivitykset sisältyvät."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:303
+#, fuzzy
+msgid "Get offline messages with the "
+msgstr "Ota vastaan Offline-viestejä kun käytössä on"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:312
+#, fuzzy
+msgid "Offline text"
+msgstr "Offline-teksti"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:317
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:393
+#, fuzzy
+msgid "Edit these text fields using the "
+msgstr "Voit muokata tätä kenttää kun käytössä on "
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:343
+#, fuzzy
+msgid "Choose a colour scheme. Only available in the"
+msgstr "Valitse väripohja. Tämä on käytettävissä kun käytössä on"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:343
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:434
+msgid "Pro add-on"
+msgstr "Pro-lisäosa"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:347
+#, fuzzy
+msgid "Colour Scheme 1"
+msgstr "Väripohja 1"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:348
+#, fuzzy
+msgid "Colour Scheme 2"
+msgstr "Väripohja 2"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:349
+#, fuzzy
+msgid "Colour Scheme 3"
+msgstr "Väripohja 3"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:350
+#, fuzzy
+msgid "Colour Scheme 4"
+msgstr "Väripohja 4"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:351
+#, fuzzy
+msgid "Colour Scheme 5"
+msgstr "Väripohja 5"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:352
+#, fuzzy
+msgid "Colour Scheme 6"
+msgstr "Väripohja 6"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:372
+msgid "First section text"
+msgstr "Ensimmäisen osion teksti"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:379
+msgid "Second section text"
+msgstr "Toisen osion teksti"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:382
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:521
+#, fuzzy
+msgid "Connecting you to a sales person. Please be patient."
+msgstr ""
+"Teidät yhdistetään yhdelle työntekijöistämme. Olkaa hyvä ja odottakaa hetki."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:388
+#, fuzzy
+msgid "Reactivate chat section text"
+msgstr "Teksti uudelleen aktivoidulle keskustelulle"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:405
+#, fuzzy
+msgid "Multiple Agents"
+msgstr "Useita käyttäjiä"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:406
+#, fuzzy
+msgid "Get"
+msgstr "Hakekaa"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:406
+#, fuzzy
+msgid "Multiple agent support"
+msgstr "Usean käyttäjän tuki"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:434
+#, fuzzy
+msgid "Get a variety of animations in the "
+msgstr "Saat käyttösi erilaisia animaatioita kun sinulla on "
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:437
+#, fuzzy
+msgid "Choose an animation (Pro Only)"
+msgstr "Valitse animaatio (vain Pro)"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/settings_page.php:464
+#, fuzzy
+msgid ""
+"Block visitors from chatting to you based on their IP address using the "
+msgstr ""
+"Estä kävijöiden keskustelut kanssasi IP-osoitteen perusteella käyttäen "
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/welcome_page.php:4
+#, fuzzy
+msgid "Welcome to "
+msgstr "Tervetuloa "
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/welcome_page.php:6
+#, fuzzy
+msgid "Version 4"
+msgstr "Versio 4"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/welcome_page.php:8
+#, fuzzy
+msgid "Provide Instant Live Chat Support!"
+msgstr "Tarjoa välitöntä tukea chat-keskustelulla!"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/welcome_page.php:10
+#, fuzzy
+msgid "How did you find us?"
+msgstr "Kuinka löysitte meidät?"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/welcome_page.php:15
+#, fuzzy
+msgid "WordPress.org plugin repository "
+msgstr "WordPress.org -lisäosien hakemisto "
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/welcome_page.php:18
+#, fuzzy
+msgid "Search Term"
+msgstr "Hakusana"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/welcome_page.php:22
+#, fuzzy
+msgid "Google or other search Engine"
+msgstr "Google tai muu hakukone"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/welcome_page.php:28
+#, fuzzy
+msgid "Friend recommendation"
+msgstr "Tuttavan suositus"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/welcome_page.php:34
+#, fuzzy
+msgid "Other"
+msgstr "Muuta"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/welcome_page.php:38
+#, fuzzy
+msgid "Please Explain"
+msgstr "Kertokaa tarkemmin"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/welcome_page.php:47
+#, fuzzy
+msgid "Submit"
+msgstr "Lähetä"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/includes/welcome_page.php:49
+#, fuzzy
+msgid "Skip"
+msgstr "Tyhjä"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:225
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:1271
+#, fuzzy
+msgid "Please click \\'Start Chat\\' to initiate a chat with an agent"
+msgstr ""
+"Painakaa \\ 'Aloita keskustelu \\' aloittaaksenne keskustelu työntekijämme "
+"kanssa"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:463
+msgid "Start Live Chat"
+msgstr "Aloite Live-keskustelu"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:819
+msgid ""
+"You are using an outdated version of <strong>WP Live Chat Support Pro</"
+"strong>. Please"
+msgstr ""
+"Käytät vanhentunutta versiota lisäosasta <strong>WP Live Chat Support "
+"Pro<strong>. Ole hyvä ja"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:820
+msgid ""
+"You're live chat box on your website has been temporarily disabled until the "
+"Pro plugin has been updated. This is to ensure a smooth and hassle-free user "
+"experience for both yourself and your visitors."
+msgstr ""
+"Keskustelut sivullasi poistettiin siksi aikaa käytöstä, kunnes Pro-lisäosa "
+"on aktivoitu. Tällä pyritään varmistamaan sinulle ja kävijöille ongelmaton "
+"ja sujuva käyttäjäkokemus."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:821
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:839
+msgid ""
+"You can update your plugin <a href='./update-core.php'>here</a>, <a href='./"
+"plugins.php'>here</a> or <a href='http://wp-livechat.com/get-updated-"
+"version/' target='_BLANK'>here</a>."
+msgstr ""
+"Volt päivittää lisäosan <a href='./update-core.php'>hier</a>, <a href='./"
+"plugins.php'>tästä</a> tai <a href='http://wp-livechat.com/get-updated-"
+"version/' target='_BLANK'>tästä</a>."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:832
+msgid ""
+"You are using an outdated version of <strong>WP Live Chat Support Pro</"
+"strong>."
+msgstr ""
+"Käyttämäsi <strong>WP Live Chat Support Pro<strong> -versio on vanhentunut."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:834
+msgid "Please update to the latest version of WP Live Chat Support Pro"
+msgstr "Ole hyvä ja päivitä WP Live Chat Support Pro viimeiseen versioon"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:835
+msgid "Version 4.4.5"
+msgstr "Versio 4.4.5"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:836
+msgid "to take advantage of chat window transitions and colour schemes."
+msgstr "käyttääksesi ikkunoiden siirtymiä ja väripohjia."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:863
+msgid "Experiencing problems with the plugin?"
+msgstr "Onko lisäosan kanssa ongelmia?"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:865
+msgid "Review the documentation."
+msgstr "Tutustu dokumentaatioon."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:866
+msgid "Or ask a question on our"
+msgstr "tai esittäkää kysymys meidän "
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:866
+msgid "Support forum."
+msgstr "Tuki–forum"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:894
+msgid "With the Pro add-on of WP Live Chat Support, you can"
+msgstr "WP Live Chat Support -lisäosan Pro-versiolle voit"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:895
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:896
+msgid "see who's online and initiate chats"
+msgstr "seuraa kävijöitä ja aloita keskusteluita"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:897
+msgid "with your online visitors with the click of a button."
+msgstr "kävijöittesi kanssa yhden napin painalluksella"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:898
+msgid "Buy the Pro add-on now for only $19.95 once off. Free Updates FOREVER."
+msgstr ""
+"Osta Pro-lisäosa nyt hintaan $19,95. Maksuttomat päivitykset IKUISESTI."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:900
+msgid "Buy the Pro add-on now for only $19.95 once off. Free Updates Forever."
+msgstr ""
+"Osta Pro-lisäosa nyt hintaan $19,95. Maksuttomat elinikäiset päivitykset "
+"sisältyvät hintaan."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:952
+msgid "Previous"
+msgstr "Edellinen"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:954
+msgid "Active"
+msgstr "Aktiivinen"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:963
+msgid "Chat with"
+msgstr "Keskustele"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:1000
+msgid "Add Quick Responses to your Live Chat"
+msgstr "Lisää oletusvastauksia omaan Live-keskusteluusi"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:1000
+msgid "Pro version only"
+msgstr "Vain Pro-versiossa"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:1011
+msgid "type here..."
+msgstr "vastatkaa tähän ..."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:1387
+msgid "WP Live Chat History"
+msgstr "WP Live Chat historia"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:1391
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:1411
+msgid "This option is only available in the "
+msgstr "Tämä valinta on käytettävissä ainoastaan "
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:1391
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:1411
+msgid "Get it now for only $19.95 once off!"
+msgstr "Hanki nyt hintaan $ 19.95!"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:1396
+msgid "WP Live Chat Missed Chats"
+msgstr "WP Live Chat vastaamattomat keskustelut"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:1403
+msgid "WP Live Chat Offline Messages"
+msgstr "WP Live Chat Support - Offline-viesti kävijältä "
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:1408
+msgid ""
+"Please update to the latest version of WP Live Chat Support Pro to start "
+"recording any offline messages."
+msgstr ""
+"Päivitä WP Live Chat Support Pro viimeiseen versioon aloittaaksesi offline-"
+"viestien tallentamisen."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:1491
+msgid "Thank You for your feedback!"
+msgstr "Kiitos palautteesta!"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:1495
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:1508
+msgid "Thank you for your feedback. We will be in touch soon"
+msgstr "Kiitos palautteesta! Olemme pian yhteydessä."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:1511
+msgid "There was a problem sending your feedback. Please log your feedback on "
+msgstr ""
+"Palautteesi lähettämisessä oli ongelmia. Ole hyvä ja kirjoita palautteesi "
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:1544
+msgid ""
+"WPLC: set_time_limit() is not enabled on this server. You may experience "
+"issues while using WP Live Chat Support as a result of this. Please get in "
+"contact your host to get this function enabled."
+msgstr ""
+"WPLC: set_time_limit() ei ole käytössä tällä palvelimella. Voit kohdata "
+"ongelmia käyttäessäsi WP Live Chat Support -lisäosaa. Ota yhteyttä "
+"ylläpitäjään asetuksen käyttöön ottamiseksi."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:1550
+msgid ""
+"WPLC: Safe mode is enabled on this server. You may experience issues while "
+"using WP Live Chat Support as a result of this. Please contact your host to "
+"get safe mode disabled."
+msgstr ""
+"WPLC: Safe mode on käytössä tällä palvelimella. Voit kohdata ongelmia "
+"käyttäessäsi WP Live Chat Support -lisäosaa. Ota yhteyttä ylläpitäjään safe "
+"moden poistamiseksi."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:1562
+msgid "WP Live Chat Support"
+msgstr "WP Live Chat Support"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:1565
+msgid "Documentation"
+msgstr "Dokumentaatio"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:1567
+msgid ""
+"Getting started? Read through some of these articles to help you along your "
+"way."
+msgstr "Aloita käyttö? Tutustu johonkin näistä ohjeista matkan varrella?"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:1568
+msgid "Documentation:"
+msgstr "Dokumentaatio:"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:1570
+msgid "Installing the WP Live Chat Support Pro add-on"
+msgstr "Asennetaan WP Live Chat Support Pro -lisäosa"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:1571
+msgid "Running the WP Live Chat Support plugin for the first time (Pro)"
+msgstr "Käynnistettään WP Live Chat Support -lisäosa ensimmäistä kertaa (Pro)"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:1572
+msgid "Upgrading your licence (Pro)"
+msgstr "Päivitä lisenssi (Pro)"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:1573
+msgid "Minimum System Requirements"
+msgstr "Vähimmäisvaatimukset"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:1575
+msgid "FAQ's:"
+msgstr "UKK:"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:1577
+msgid "How do I check for JavaScript errors on my site?"
+msgstr "Miten tarkastan JavaScript-virheet sivullani?"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:1578
+msgid "What are Quick Responses?"
+msgstr "Mitä ovat pikavastaukset?"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:1579
+msgid "Can I use this plugin on my multi-site?"
+msgstr "Voinko käyttää lisäosaa monisivuisessa asennuksessa?"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:1580
+msgid "How do I disable APC Object Cache?"
+msgstr "Miten poista käytöstä APC-välimuistin?"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:1581
+msgid "Do you have a mobile app?"
+msgstr "Onko sinulla mobiili-applikaatio?"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:1582
+msgid "Do I have to be logged into the dashboard to chat with visitors?"
+msgstr ""
+"Tuleeko minun kirjautua sivuston hallintaan keskustellaakseni kävijöiden "
+"kanssa?"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:1586
+msgid "Troubleshooting"
+msgstr "Ongelmanratkaisu"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:1588
+msgid ""
+"WP Live Chat Support Pro has a diverse and wide range of features which may, "
+"from time to time, run into conflicts with the thousands of themes and other "
+"plugins on the market."
+msgstr ""
+"WP Live Chat Support Pro -lisäosa sisältää lukuisia ominaisuuksia. Ne voivat "
+"joskus aiheuttaa ristiriitoja jonkin muun saatavilla olevan lisäosan tai "
+"teeman kanssa."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:1589
+msgid "Common issues:"
+msgstr "Yleisiä ongelmia:"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:1591
+msgid "The chat box doesnt show up"
+msgstr "Keskusteluikkuna ei näy lainkaan"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:1592
+msgid "The chat window disappears when I logout or go offline"
+msgstr "Keskusteluikkuna katoaa kun kirjaudun ulos tai siirryn pois linjoilta"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:1594
+msgid "Messages only show when I refresh the chat window"
+msgstr "Viestit näkyvät ainoastaan kun päivitän keskusteluikkunan"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:1595
+msgid "I'm not getting any notifications of a new chat"
+msgstr "En saa ilmoituksia uusista keskusteluista"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:1596
+msgid "The chat window never goes offline"
+msgstr "Keskusteluikkuna ei koskaan ole poissa linjoilta"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:1602
+msgid "Still need help? Use one of these links below."
+msgstr "Tarvitsetko edelleen apua? Käytä jotakin seuraavista linkeistä."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:1604
+msgid "Support forum"
+msgstr "Tuki-forum"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp-live-chat-support/wp-live-chat-support.php:1605
+msgid "Contact us"
+msgstr "Ota yhteyttä meihin"

@@ -1,0 +1,131 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2016-05-16 03:49-0700\n"
+"PO-Revision-Date: 2016-05-16 03:54-0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/class-woo-extra-flat-rate-admin.php:145
+msgid "Add New flat Rate shipping option in your WooCommerce site."
+msgstr ""
+"Añadir Nueva opción de envío de la tarifa plana en su sitio WooCommerce ."
+
+#: admin/class-woo-extra-flat-rate-admin.php:146
+msgid ""
+"WooCommerce Extra Flat Rate Shipping Method For WooCommerce plugin provides "
+"you an interface in WooCommerce setting section from admin side. So admin "
+"can add Multiple Shipping option(Extra Flat Rate Shipping) or remove any "
+"existing shipping from the backend. Admin set options will be displayed from "
+"the front side. So the user can choose shipping method based on that."
+msgstr ""
+"WooCommerce adicional de la tarifa única forma de envío para WooCommerce "
+"plugin que proporciona una interfaz de configuración de la sección de "
+"WooCommerce parte de administración . Así Administrador puede agregar la "
+"opción de envío múltiple (Dto Tarifa plana de envío ) o eliminar cualquier "
+"embarque existente desde el servidor . defina las opciones de administración "
+"se mostrarán desde el lado frontal . Por lo que el usuario puede elegir el "
+"método de envío basado en eso."
+
+#: admin/class-woo-extra-flat-rate-admin.php:147
+msgid ""
+"This plugin is for those users who wants to use Multiple shipping on the "
+"website. By using this plugin, You can add multiple shipping in your "
+"wooCommerce website as well as you can add/remove it as per your requirement."
+msgstr ""
+"Este plugin es para aquellos usuarios que quieran utilizar el envío múltiple "
+"en el sitio web .Mediante el uso de este plugin , puede añadir el envío "
+"múltiple en su sitio web , así como WooCommerce puede añadir / quitar como "
+"por su exigencia ."
+
+#: admin/class-woo-extra-flat-rate-admin.php:149
+msgid "Go to WooCommerce Extra Flat Rate Settings"
+msgstr "Ir a Ajustes de la frecuencia WooCommerce extra plano"
+
+#: admin/class-woo-extra-flat-rate-admin.php:161
+msgid ""
+"You are currently using the free version of WooCommerce Flat Rate Plugin. To "
+"enjoy extra features, buy the Pro version <a href=\"http://codecanyon.net/"
+"item/advance-flat-rate-shipping-method-for-woocommerce/15831725\" target="
+"\"_blank\">Advance Flat Rate Shipping Method</a>"
+msgstr ""
+"En este momento está usando la versión gratuita de la tarifa única "
+"WooCommerce Plugin . Para disfrutar de características adicionales, comprar "
+"la versión Pro.<a target=\"_blank\"> href=\"http://codecanyon.net/item/"
+"advance-flat-rate-shipping-method-for-woocommerce/15831725\" Avance de la "
+"tarifa única forma de envío </a>"
+
+#: admin/partials/woo-extra-flat-rate-admin-display.php:54
+msgid "Extra Flat Rate"
+msgstr "Tarifa plana extra"
+
+#: admin/partials/woo-extra-flat-rate-admin-display.php:86
+msgid "Shipping Display Mode"
+msgstr "Modo de visualización de envío"
+
+#: admin/partials/woo-extra-flat-rate-admin-display.php:92
+msgid "Display shipping methods with \"radio\" buttons"
+msgstr "métodos de envío pantalla con botones de \" radio\""
+
+#: admin/partials/woo-extra-flat-rate-admin-display.php:95
+msgid "Display shipping methods in a dropdown"
+msgstr "métodos de envío en una pantalla desplegable"
+
+#: admin/partials/woo-extra-flat-rate-admin-display.php:103
+msgid "Save Display Mode"
+msgstr "Modo de Pantalla Guardar"
+
+#: admin/partials/woo-extra-flat-rate-admin-display.php:108
+msgid "Extra Flat Rates"
+msgstr "Tarifas planas adicionales"
+
+#: admin/partials/woo-extra-flat-rate-admin-display.php:113
+msgid "Flat&nbsp;Rate&nbsp;Name"
+msgstr ""
+
+#: admin/partials/woo-extra-flat-rate-admin-display.php:114
+msgid "Rate&nbsp;"
+msgstr ""
+
+#: admin/partials/woo-extra-flat-rate-admin-display.php:124
+msgid "Flat rate ID"
+msgstr "La tarifa plana de Identificación"
+
+#: admin/partials/woo-extra-flat-rate-admin-display.php:142
+msgid "Insert row"
+msgstr "Insertar fila"
+
+#: admin/partials/woo-extra-flat-rate-admin-display.php:143
+msgid "Remove selected row(s)"
+msgstr "Retire fila seleccionada ( s )"
+
+#: admin/partials/woo-extra-flat-rate-admin-display.php:148
+msgid "Please enter valid rate"
+msgstr "Por favor, introduzca tasa válida"
+
+#: admin/partials/woo-extra-flat-rate-admin-html-output.php:313
+msgid "Select a page&hellip;"
+msgstr ""
+
+#: public/template/woocommerce/cart/cart-shipping.php:63
+msgid "Shipping costs will be calculated once you have provided your address."
+msgstr ""
+"Los gastos de envío se calcularán una vez que usted ha proporcionado su "
+"dirección ."
+
+#: public/template/woocommerce/cart/cart-shipping.php:65
+msgid ""
+"There are no shipping methods available. Please double check your address, "
+"or contact us if you need any help."
+msgstr ""
+"No hay métodos de envío disponibles . Por favor comprobar su dirección , o "
+"póngase en contacto con nosotros si necesita ayuda ."

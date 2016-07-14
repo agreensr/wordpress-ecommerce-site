@@ -1,0 +1,1523 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Live Chat Support\n"
+"POT-Creation-Date: 2016-04-03 13:14+0430\n"
+"PO-Revision-Date: 2016-04-03 13:15+0430\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: wp-live-chat-support.php\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: ajax_new.php:206
+msgid "Admin has closed and ended the chat"
+msgstr "مدیر سایت پنجره را بست و گفتگو خاتمه یافت"
+
+#: ajax_new.php:230
+msgid "There is No Answer. Please Try Again Later"
+msgstr "پاسخی دریافت نشد. لطفا پس از مدتی دوباره تلاش کنید."
+
+#: functions.php:265
+msgid "No chat sessions available at the moment"
+msgstr "در این لحظه کسی آماده گفتگو نیست."
+
+#: functions.php:267
+msgid "Active Chats"
+msgstr "گفتگوی فعال"
+
+#: functions.php:282 functions.php:474 wp-live-chat-support.php:2057
+msgid "IP Address not recorded"
+msgstr "آدرس آی پی ذخیره نشده"
+
+#: functions.php:284 functions.php:476 wp-live-chat-support.php:2059
+msgid "Whois for"
+msgstr "جستجوی دامنه برای"
+
+#: functions.php:289 functions.php:431 functions.php:1249
+msgid "Accept Chat"
+msgstr "گفتگو پذیرفته شد"
+
+#: functions.php:291
+msgid "Incoming Chat"
+msgstr "درخواست گفتگو"
+
+#: functions.php:291
+msgid "You have an incoming chat."
+msgstr "شما یک درخواست گفتگو دارید."
+
+#: functions.php:295
+msgid "Open Chat Window"
+msgstr "باز کردن پنجره گفتگو"
+
+#: functions.php:297
+msgid "Chat Active"
+msgstr "گفتگوی فعال"
+
+#: functions.php:297
+msgid "This chat is active"
+msgstr "این گفتگو فعال است"
+
+#: functions.php:320 wp-live-chat-support.php:2088
+msgid "Site Info"
+msgstr "اطلاعات سایت"
+
+#: functions.php:322 wp-live-chat-support.php:2090
+msgid "Chat initiated on:"
+msgstr "گفتگو شروع شد با:"
+
+#: functions.php:326 wp-live-chat-support.php:2094
+msgid "Advanced Info"
+msgstr "اطلاعات تکمیلی"
+
+#: functions.php:328 wp-live-chat-support.php:2096
+msgid "Browser:"
+msgstr "مرور کردن:"
+
+#: functions.php:329 wp-live-chat-support.php:2097
+msgid "IP Address:"
+msgstr "آدرس آی پی:"
+
+#: functions.php:436
+msgid "Open Chat"
+msgstr "گفتگوی فعال"
+
+#: functions.php:439
+msgid "Only chat agents can accept chats"
+msgstr "فقط مسئولین سایت قادر به پذیرش گفتگو می باشند."
+
+#: functions.php:499
+msgid "New"
+msgstr "جدید"
+
+#: functions.php:501
+msgid "Returning"
+msgstr "بازگشت"
+
+#: functions.php:890
+msgid "complete"
+msgstr "کامل"
+
+#: functions.php:893
+msgid "pending"
+msgstr "در حال انتظار"
+
+#: functions.php:896
+msgid "active"
+msgstr "فعال"
+
+#: functions.php:899
+msgid "deleted"
+msgstr "حذف شده"
+
+#: functions.php:902
+msgid "browsing"
+msgstr "مرور کردن"
+
+#: functions.php:905
+msgid "requesting chat"
+msgstr "درخواست گفتگو"
+
+#: functions.php:908
+msgid "Chat Ended - User still browsing"
+msgstr "گفتگو پایان یافت - کاربر هنوز در حال مرور صفحات می باشد"
+
+#: functions.php:911
+msgid "User is browsing but doesn't want to chat"
+msgstr "کاربر در حال مرور صفحات می باشد ولی تمایلی به گفتگو ندارد"
+
+#: functions.php:1093
+msgid "WP Live Chat Support - Offline Message from "
+msgstr "WP Live Chat Support  - پیام آفلاین از"
+
+#: functions.php:1094 functions.php:1467 includes/deprecated.php:191
+#: includes/deprecated.php:390 wp-live-chat-support.php:1084
+#: wp-live-chat-support.php:1267 wp-live-chat-support.php:2446
+#: wp-live-chat-support.php:2556
+msgid "Name"
+msgstr "نام"
+
+#: functions.php:1095 functions.php:1468 includes/deprecated.php:192
+#: includes/deprecated.php:391 wp-live-chat-support.php:1085
+#: wp-live-chat-support.php:1268 wp-live-chat-support.php:2447
+#: wp-live-chat-support.php:2557
+msgid "Email"
+msgstr "آدرس پست الکترونیکی"
+
+#: functions.php:1096 wp-live-chat-support.php:1269
+#: wp-live-chat-support.php:2558 wp-live-chat-support.php:3476
+msgid "Message"
+msgstr "پیام"
+
+#: functions.php:1097
+msgid "Via WP Live Chat Support"
+msgstr "توسط  Via WP Live Chat Support"
+
+#: functions.php:1249
+msgid "Get Pro Add-on to accept more chats"
+msgstr "جهت دریافت گفتگوی همزمان بیشتر، نسخه پیشرفته را دریافت کنید"
+
+#: functions.php:1466 wp-live-chat-support.php:2445
+#: wp-live-chat-support.php:2555
+msgid "Date"
+msgstr "تاریخ"
+
+#: functions.php:1469 wp-live-chat-support.php:2448
+msgid "URL"
+msgstr "URL"
+
+#: functions.php:1496
+msgid "You have not missed any chat requests."
+msgstr "شما هیچ درخواستی برای گفتگو را از دست نداده اید."
+
+#: includes/deprecated.php:150 includes/deprecated.php:347
+#: wp-live-chat-support.php:434 wp-live-chat-support.php:1358
+msgid "Questions?"
+msgstr "سئوالات؟"
+
+#: includes/deprecated.php:150 includes/deprecated.php:347
+#: wp-live-chat-support.php:435 wp-live-chat-support.php:1359
+msgid "Chat with us"
+msgstr "گفتگو با ما"
+
+#: includes/deprecated.php:157 includes/deprecated.php:354
+msgid "Start Live Chat"
+msgstr "شروع گفتگوی آنلاین"
+
+#: includes/deprecated.php:209 includes/deprecated.php:409
+#: wp-live-chat-support.php:437
+msgid "Start Chat"
+msgstr "شروع گفتگو"
+
+#: includes/deprecated.php:212 includes/deprecated.php:412
+msgid "Connecting you to a sales person. Please be patient."
+msgstr "لطفا صبور باشید. به زودی به گروه پشتیبانی متصل خواهید شد."
+
+#: includes/deprecated.php:215 includes/deprecated.php:415
+#: wp-live-chat-support.php:439 wp-live-chat-support.php:1451
+msgid "Reactivating your previous chat..."
+msgstr "فعال سازی مجدد گفتگوی قبلی شما..."
+
+#: includes/deprecated.php:220 includes/deprecated.php:420
+#: wp-live-chat-support.php:441 wp-live-chat-support.php:2109
+msgid "Press ENTER to send your message"
+msgstr "به منظور ارسال پیام، دکمه ENTER بر روی صفحه کلید را فشار دهید"
+
+#: includes/deprecated.php:224 includes/deprecated.php:424
+#: wp-live-chat-support.php:1337 wp-live-chat-support.php:2123
+msgid "Send"
+msgstr "ارسال"
+
+#: includes/feedback-page.php:7
+msgid "WP Live Chat Support Feedback"
+msgstr "ارسال بازخورد به WP Live Chat Support"
+
+#: includes/feedback-page.php:8
+msgid "We'd love to hear your comments and/or suggestions"
+msgstr "ما مشتاقانه در انتظار دریافت نظرات و / یا پیشنهادات شما هستیم"
+
+#: includes/feedback-page.php:13
+msgid "Your Name"
+msgstr "نام شما"
+
+#: includes/feedback-page.php:21
+msgid "Your Email"
+msgstr "آدرس پست الکترونیکی شما"
+
+#: includes/feedback-page.php:29
+msgid "Your Website"
+msgstr "آدرس وبسایت شما"
+
+#: includes/feedback-page.php:37 wp-live-chat-support.php:578
+msgid "Feedback"
+msgstr "بازخورد"
+
+#: includes/feedback-page.php:48
+msgid "Send Feedback"
+msgstr "ارسال بازخورد"
+
+#: includes/settings_page.php:20
+msgid "WP Live Chat Support Settings"
+msgstr "تنظیمات WP Live Chat Support"
+
+#: includes/settings_page.php:42
+msgid "General Settings"
+msgstr "تنظیمات عمومی"
+
+#: includes/settings_page.php:47
+msgid "Chat Box"
+msgstr "بخش گفتگو"
+
+#: includes/settings_page.php:52 includes/settings_page.php:203
+#: wp-live-chat-support.php:571 wp-live-chat-support.php:574
+msgid "Offline Messages"
+msgstr "پیام های آفلاین"
+
+#: includes/settings_page.php:57 includes/settings_page.php:344
+msgid "Styling"
+msgstr "استایل"
+
+#: includes/settings_page.php:62
+msgid "Agents"
+msgstr "مسئولین سایت"
+
+#: includes/settings_page.php:67
+msgid "Blocked Visitors"
+msgstr "بازدید کننده های مسدود شده"
+
+#: includes/settings_page.php:80
+msgid "Main Settings"
+msgstr "تنظیمات اصلی"
+
+#: includes/settings_page.php:83
+msgid "Chat enabled"
+msgstr "گفتگو فعال شده"
+
+#: includes/settings_page.php:86
+msgid "Yes"
+msgstr "بله"
+
+#: includes/settings_page.php:87
+msgid "No"
+msgstr "خیر"
+
+#: includes/settings_page.php:93
+msgid "Hide Chat"
+msgstr "پنهان کردن گفتگو"
+
+#: includes/settings_page.php:93
+msgid "Hides chat for 24hrs when user clicks X"
+msgstr "زمانی که کاربر دکمه بر روی دکمه X کلیک کند، گفتگو تا 24 ساعت مخفی شود"
+
+#: includes/settings_page.php:101
+msgid "Require Name And Email"
+msgstr "نام و آدرس پست الکترونیک الزامی"
+
+#: includes/settings_page.php:101
+msgid ""
+"Users will have to enter their Name and Email Address when starting a chat"
+msgstr ""
+"هنگام شروع یک گفتگو، کاربران باید نام و آدرس پست الکترونیکی خود را وارد "
+"نمایند"
+
+#: includes/settings_page.php:109
+msgid "Input Field Replacement Text"
+msgstr "فیلد ورود جایگزین متن"
+
+#: includes/settings_page.php:109
+msgid "This is the text that will show in place of the Name And Email fields"
+msgstr "این متنی است که در فیلد نام و آدرس پست الکترونیکی نشان داده خواهد شد."
+
+#: includes/settings_page.php:117
+msgid "Use Logged In User Details"
+msgstr "استفاده از اطلاعات کاربر در سایت لاگ این شده (وارد شده)"
+
+#: includes/settings_page.php:117
+msgid ""
+"A user's Name and Email Address will be used by default if they are logged "
+"in."
+msgstr ""
+"در صورتی که کاربر در سایت لاگ این شده باشد، نام کاربری و آدرس پست الکترونیکی "
+"وی به صورت پیش فرض استفاده می شود."
+
+#: includes/settings_page.php:125
+msgid "Enable On Mobile Devices"
+msgstr "پنجره گفتگو در موبایل و تبلت نمایش داده شود"
+
+#: includes/settings_page.php:125
+msgid ""
+"Disabling this will mean that the Chat Box will not be displayed on mobile "
+"devices. (Smartphones and Tablets)"
+msgstr ""
+"غیر فعال کردن این گزینه بدین معنی است که کاربرانی که با تلفن هوشمند و تبلت "
+"وارد سایت می شوند قادر به جت کردن نمی باشند."
+
+#: includes/settings_page.php:133
+msgid "Record a visitor's IP Address"
+msgstr "ثبت کردن آدرس آی پی بازدید کنندگان"
+
+#: includes/settings_page.php:133
+msgid "Disable this to enable anonymity for your visitors"
+msgstr ""
+"غیر فعال کردن این گزینه بازدید کنندگان را قادر میسازد که نامشان در دفعات "
+"بعدی مراجعه به سایت مشخص نشود."
+
+#: includes/settings_page.php:141
+msgid "Play a sound when a new message is received"
+msgstr "پخش یک صدا در هنگام دریافت پیام جدید."
+
+#: includes/settings_page.php:141
+msgid ""
+"Disable this to mute the sound that is played when a new chat message is "
+"received"
+msgstr "این گزینه را غیر فعال کنید تا هنگام دریافت چیام جدید صدایی پخش نشود"
+
+#: includes/settings_page.php:153
+msgid "Chat Window Settings"
+msgstr "تنظیمات پنجره گفتگو"
+
+#: includes/settings_page.php:156
+msgid "Chat box alignment"
+msgstr "تراز پنجره گفتگو"
+
+#: includes/settings_page.php:159
+msgid "Bottom left"
+msgstr "پایین سمت چپ"
+
+#: includes/settings_page.php:160
+msgid "Bottom right"
+msgstr "پایین سمت راست"
+
+#: includes/settings_page.php:161
+msgid "Left"
+msgstr "چپ"
+
+#: includes/settings_page.php:162
+msgid "Right"
+msgstr "راست"
+
+#: includes/settings_page.php:168
+msgid "Auto Pop-up"
+msgstr "پاپ آپ خودکار"
+
+#: includes/settings_page.php:168
+msgid ""
+"Expand the chat box automatically (prompts the user to enter their name and "
+"email address)."
+msgstr ""
+"باز شدن پنجره گفتگو به صورت خودکار (از کاربر می خواهد که نام و آدرس پست "
+"الکترونیکی خود را وارد کند)."
+
+#: includes/settings_page.php:178
+msgid "Display name and avatar in chat"
+msgstr "نمایش نام و نماد در پنجره گفتگو"
+
+#: includes/settings_page.php:178
+msgid "Display the agent and user name above each message in the chat window."
+msgstr "نمایش نام کاربری مسئول سایت  در بالای هر پیام داخل پنجره گفتگو."
+
+#: includes/settings_page.php:188
+msgid "Only show the chat window to users that are logged in"
+msgstr "پنجره چت را فقط به کاربرانی که لاگ این شده اند نشان بده."
+
+#: includes/settings_page.php:188
+msgid ""
+"By checking this, only users that are logged in will be able to chat with "
+"you."
+msgstr ""
+"در صورتی که این گزینه را کلیک کنید، فقط کاربرانی که در سایت لاگ این شده اند "
+"می توانند با شما چت کنند."
+
+#: includes/settings_page.php:207
+msgid "Do not allow users to send offline messages"
+msgstr "به کاربران اجازه ارسال پیام آفلاین ندهید"
+
+#: includes/settings_page.php:207
+msgid ""
+"The chat window will be hidden when it is offline. Users will not be able to "
+"send offline messages to you"
+msgstr ""
+"پنجره گفتگو در حالت آفلاین مخفی خواهد شد. کاربران قادر به ارسال پیام آفلاین "
+"به شما نخواهند بود"
+
+#: includes/settings_page.php:219
+msgid "Email Address"
+msgstr "آدرس پست الکترونیکی"
+
+#: includes/settings_page.php:219
+msgid ""
+"Email address where offline messages are delivered to. Use comma separated "
+"email addresses to send to more than one email address"
+msgstr ""
+"آدرس پست الکترونیکی ای که پیام های آفلاین به آن ارسال خواهد شد. اگر بیش از "
+"یک آدرس پست الکترونیکی درج می کنید آنها را توسط کاما از یکدیگر جدا کنید"
+
+#: includes/settings_page.php:231
+msgid "Sending Method"
+msgstr "روش ارسال"
+
+#: includes/settings_page.php:232
+msgid "WP Mail"
+msgstr "WP Mail"
+
+#: includes/settings_page.php:233
+msgid "PHP Mailer"
+msgstr "PHP Mailer"
+
+#: includes/settings_page.php:249
+msgid "Host"
+msgstr "Host"
+
+#: includes/settings_page.php:257
+msgid "Port"
+msgstr "Port"
+
+#: includes/settings_page.php:265
+msgid "Username"
+msgstr "نام کاربری"
+
+#: includes/settings_page.php:273
+msgid "Password"
+msgstr "کلمه عبور"
+
+#: includes/settings_page.php:282
+msgid "Offline Chat Box Title"
+msgstr "عنوان پنجره گفتگو در حالت آفلاین"
+
+#: includes/settings_page.php:290
+msgid "Offline Text Fields"
+msgstr "فیلدهای متنی آفلاین"
+
+#: includes/settings_page.php:348
+msgid "Choose a theme"
+msgstr "انتخاب پوسته"
+
+#: includes/settings_page.php:353 includes/settings_page.php:356
+msgid "Theme 1"
+msgstr "پوسته شماره 1"
+
+#: includes/settings_page.php:359 includes/settings_page.php:362
+msgid "Theme 2"
+msgstr "پوسته شماره 2"
+
+#: includes/settings_page.php:365 includes/settings_page.php:368
+msgid "Theme 3"
+msgstr "پوسته شماره 3"
+
+#: includes/settings_page.php:371 includes/settings_page.php:374
+msgid "Theme 4"
+msgstr "پوسته شماره 4"
+
+#: includes/settings_page.php:377 includes/settings_page.php:380
+msgid "Theme 5"
+msgstr "پوسته شماره 5"
+
+#: includes/settings_page.php:383
+msgid "Theme 6"
+msgstr "پوسته شماره 6"
+
+#: includes/settings_page.php:386
+msgid "Custom. Enter Colour Values Below"
+msgstr "سفارشی کردن. شماره رنگ را در زیر وارد کنید"
+
+#: includes/settings_page.php:416
+msgid "Chat box fill color"
+msgstr "رنگ پنجره گفتگو"
+
+#: includes/settings_page.php:422
+msgid "Chat box font color"
+msgstr "رنگ فونت پنجره گفتگو"
+
+#: includes/settings_page.php:429
+msgid "I'm using a localization plugin"
+msgstr "من از یک افزونه محلی سازی (مترجم سایت) استفاده میکنم"
+
+#: includes/settings_page.php:437
+msgid "First Section Text"
+msgstr "بخش اول متن"
+
+#: includes/settings_page.php:444
+msgid "Intro Text"
+msgstr "متن آغازین"
+
+#: includes/settings_page.php:450
+msgid "Second Section Text"
+msgstr "بخش دوم متن"
+
+#: includes/settings_page.php:457
+msgid "Reactivate Chat Section Text"
+msgstr "دوباره فعال کردن متن "
+
+#: includes/settings_page.php:465
+msgid "User chat welcome"
+msgstr "خوش آمد گویی ابتدای گفتگو به کاربر"
+
+#: includes/settings_page.php:471
+msgid "Other text"
+msgstr "متن های دیگر"
+
+#: includes/settings_page.php:473
+msgid "This text is shown above the user chat input field"
+msgstr "این متن در قسمت بالای فیلد نوشتاری گفتگوی کاربر نمایش داده می شود"
+
+#: includes/settings_page.php:501
+msgid "Choose an animation"
+msgstr "انتخاب یک انیمیشن"
+
+#: includes/settings_page.php:509
+msgid "Slide Up"
+msgstr "Slide Up"
+
+#: includes/settings_page.php:515
+msgid "Slide From The Side"
+msgstr "Slide From The Side"
+
+#: includes/settings_page.php:521
+msgid "Fade In"
+msgstr "Fade In"
+
+#: includes/settings_page.php:527
+msgid "No Animation"
+msgstr "No Animation"
+
+#: includes/settings_page.php:554
+msgid "Blocked Visitors - Based on IP Address"
+msgstr "کاربران مسدود شده - بر مبنای آدرس آی پی"
+
+#: includes/settings_page.php:555
+msgid "Enter each IP Address you would like to block on a new line"
+msgstr "هر آدرس آی پی را که تمایل به مسدود کردن آن دارید در یک خط وارد کنید"
+
+#: includes/settings_page.php:566
+msgid ""
+"Blocking a user's IP Address here will hide the chat window from them, "
+"preventing them from chatting with you. Each IP Address must be on a new line"
+msgstr ""
+"در صورتی که آدرس آی پی کاربری را مسدود کنید پنجره گفتگو برای وی مخفی می شود "
+"و از گفتگوی ایشان با شما جلوگیری می شود. هر آدرس آی پی باید در یک خط جدید "
+"نوشته شود."
+
+#: includes/settings_page.php:572
+msgid "Save Settings"
+msgstr "ذخیره تنظیمات"
+
+#: includes/update_control.class.php:115
+msgid ""
+"An Unexpected HTTP Error occurred during the API request.</p> <p><a href=\"?"
+"\" onclick=\"document.location.reload(); return false;\">Try again</a>"
+msgstr ""
+"هنگام ارسال درخواست، یک پیام خطای HTTP غیر مترقبه  روی داد. </p> <p><a href="
+"\"?\" onclick=\"document.location.reload(); return false;\">Try again</a>"
+
+#: includes/update_control.class.php:120
+msgid "An unknown error occurred"
+msgstr "یک خطای ناشناس روی داده."
+
+#: includes/welcome_page.php:4
+msgid "Welcome to "
+msgstr "خوش آمدید به"
+
+#: includes/welcome_page.php:6
+msgid "Version 6"
+msgstr "نسخه 6"
+
+#: includes/welcome_page.php:8
+msgid "The most popular live chat plugin!"
+msgstr "مشهورترین افزونه گفتگوی آنلاین"
+
+#: includes/welcome_page.php:11
+msgid "How did you find us?"
+msgstr "چطور ما را پیدا کردید؟"
+
+#: includes/welcome_page.php:16
+msgid "WordPress.org plugin repository "
+msgstr "از بخش افزونه های سایت WordPress.org"
+
+#: includes/welcome_page.php:19
+msgid "Search Term"
+msgstr "جستجوی واژه"
+
+#: includes/welcome_page.php:23
+msgid "Google or other search Engine"
+msgstr "موتور جستجوی گوگل یا دیگر موتورهای جستجو"
+
+#: includes/welcome_page.php:29
+msgid "Friend recommendation"
+msgstr "توصیه یک دوست"
+
+#: includes/welcome_page.php:35
+msgid "Other"
+msgstr "دیگر"
+
+#: includes/welcome_page.php:39
+msgid "Please Explain"
+msgstr "لطفا توضیح بدهید"
+
+#: includes/welcome_page.php:48
+msgid "Submit"
+msgstr "ثبت کردن"
+
+#: includes/welcome_page.php:50
+msgid "Skip"
+msgstr "حذف این قسمت"
+
+#: wp-live-chat-support.php:428 wp-live-chat-support.php:1364
+msgid "Chat offline. Leave a message"
+msgstr "گفتگو آفلاین است. لطفا یک پیام حاوی اطلاعات تماس خود بگذارید"
+
+#: wp-live-chat-support.php:429 wp-live-chat-support.php:1252
+msgid "Hello. Please input your details so that I may help you."
+msgstr "سلام. لطفا برای اینکه بتوانیم به شما کمک کنیم مشخصات خود را وارد کنید."
+
+#: wp-live-chat-support.php:430 wp-live-chat-support.php:735
+msgid ""
+"We are currently offline. Please leave a message and we'll get back to you "
+"shortly."
+msgstr ""
+"در حال حاظر ما آفلاین هستیم. لطفا یک پیام حاوی اطلاعات تماس خود را بگذارید "
+"تا در اولین فرصت ممکن با شما ارتباط برقرار کنیم."
+
+#: wp-live-chat-support.php:431 wp-live-chat-support.php:736
+msgid "Sending message..."
+msgstr "ارسال پیام..."
+
+#: wp-live-chat-support.php:432 wp-live-chat-support.php:737
+msgid "Thank you for your message. We will be in contact soon."
+msgstr ""
+"از اینکه پیام خود را ارسال کردید متشکریم. به زودی با شما تماس خواهیم گرفت."
+
+#: wp-live-chat-support.php:436
+msgid "Start live chat"
+msgstr "شروع گفتگوی آنلاین"
+
+#: wp-live-chat-support.php:438
+msgid "Connecting. Please be patient..."
+msgstr "لطفا صبور باشید. در حال اتصال..."
+
+#: wp-live-chat-support.php:440 wp-live-chat-support.php:1317
+msgid "Welcome. How may I help you?"
+msgstr "خوش آمدید. چطور میتونم به شما کمک کنم؟"
+
+#: wp-live-chat-support.php:457 wp-live-chat-support.php:2209
+msgid "Please click \\'Start Chat\\' to initiate a chat with an agent"
+msgstr ""
+"لطفا جهت گفتگو با یکی از مسئولین سایت بر روی دکمه \"شروع گفتگو\" کلیک کنید"
+
+#: wp-live-chat-support.php:551
+msgid "Live Chat"
+msgstr "گفتگوی آنلاین"
+
+#: wp-live-chat-support.php:552
+msgid "Settings"
+msgstr "تنظیمات"
+
+#: wp-live-chat-support.php:557
+msgid "History"
+msgstr "تاریخچه"
+
+#: wp-live-chat-support.php:558
+msgid "Missed Chats"
+msgstr "گفتگو های از دست رفته"
+
+#: wp-live-chat-support.php:579 wp-live-chat-support.php:3006
+msgid "Support"
+msgstr "پشتیبانی"
+
+#: wp-live-chat-support.php:580
+msgid "Extensions"
+msgstr "برنامه های افزودنی"
+
+#: wp-live-chat-support.php:590
+msgid "API Keys"
+msgstr "API Keys"
+
+#: wp-live-chat-support.php:596
+msgid "Premium Extension API Keys"
+msgstr "Premium Extension API Keys"
+
+#: wp-live-chat-support.php:597
+msgid ""
+"To find and manage your premium API keys, please visit your <a "
+"target='_BLANK' href='https://wp-livechat.com/my-account/'>my account</a> "
+"page."
+msgstr ""
+"لطفا جهت یافتن و مدیریت premium API keys ی مورد نظر خود، از صفحه <a "
+"target='_BLANK' href='https://wp-livechat.com/my-account/'>my account</a> "
+"بازدید کنید."
+
+#: wp-live-chat-support.php:1168
+msgid "Start chat"
+msgstr "شروع گفتگو"
+
+#: wp-live-chat-support.php:1236
+msgid "Send message"
+msgstr "ارسال پیام"
+
+#: wp-live-chat-support.php:1297 wp-live-chat-support.php:1313
+msgid "Connecting. Please be patient."
+msgstr "لطفا صبور باشید. در حال اتصال."
+
+#: wp-live-chat-support.php:1387
+msgid "Initiate Chat"
+msgstr "شروع گفتگو"
+
+#: wp-live-chat-support.php:1683
+msgid "New chat received"
+msgstr "درخواست گفتگوی جدید دریافت شده"
+
+#: wp-live-chat-support.php:1685
+msgid ""
+"A new chat has been received. Please go the 'Live Chat' page to accept the "
+"chat"
+msgstr ""
+"درخواست گفتگوی جدید دریافت شده. لطفا جهت شروع گفتگو به صفحه \"گفتگوی آنلاین"
+"\" بروید."
+
+#: wp-live-chat-support.php:1727
+msgid "Remove"
+msgstr "حذف کردن"
+
+#: wp-live-chat-support.php:1746 wp-live-chat-support.php:1761
+msgid "Dear Pro User"
+msgstr "کاربر نسخه پیشرفته عزیز"
+
+#: wp-live-chat-support.php:1747
+msgid ""
+"You are using an outdated version of <strong>WP Live Chat Support Pro</"
+"strong>. Please"
+msgstr ""
+"شما از نسخه تاریخ گذشته <strong>WP Live Chat Support Pro</strong> استفاده می "
+"کنید. لطفا"
+
+#: wp-live-chat-support.php:1747
+msgid "update to at least version"
+msgstr "به آخرین نسخه به روز کنید"
+
+#: wp-live-chat-support.php:1747
+msgid "to ensure all functionality is in working order"
+msgstr "جهت اطمینان از کارکرد صحیح همه توابع"
+
+#: wp-live-chat-support.php:1748
+msgid ""
+"You're live chat box on your website has been temporarily disabled until the "
+"Pro plugin has been updated. This is to ensure a smooth and hassle-free user "
+"experience for both yourself and your visitors."
+msgstr ""
+"پنجره گفتگو در سایت شما به صورت موقت تا زمانی که نسخه پیشرفته پلاگین خود را "
+"به روز نمایید غیر فعال می باشد. این کار به منظور اطمینان یافتن از اینکه "
+"گفتگوی شما و بازدید کنندگان سایت شما به صورت کارآمد و بی دردسر می باشد، "
+"انجام شده."
+
+#: wp-live-chat-support.php:1749 wp-live-chat-support.php:1769
+msgid ""
+"You can update your plugin <a href='./update-core.php'>here</a>, <a href='./"
+"plugins.php'>here</a> or <a href='https://wp-livechat.com/get-updated-"
+"version/' target='_BLANK'>here</a>."
+msgstr ""
+"شما میتوانید پلاگین خود را به روز کنید <a href='./update-core.php'>here</a>, "
+"<a href='./plugins.php'>here</a>  یا <a href='https://wp-livechat.com/get-"
+"updated-version/' target='_BLANK'>here</a>"
+
+#: wp-live-chat-support.php:1750 wp-live-chat-support.php:1770
+msgid "If you are having difficulty updating the plugin, please contact"
+msgstr ""
+"در صورتی که قصد دارید به صورت دیگری پلاگین خود را به روز نمایید لطفا تماس "
+"بگیرید"
+
+#: wp-live-chat-support.php:1762
+msgid ""
+"You are using an outdated version of <strong>WP Live Chat Support Pro</"
+"strong>."
+msgstr ""
+"شما از نسخه تاریخ گذشته <strong>WP Live Chat Support Pro</strong> استفاده می "
+"کنید."
+
+#: wp-live-chat-support.php:1764
+msgid "Please update to the latest version of WP Live Chat Support Pro"
+msgstr "لطفا WP Live Chat Support Pro را به آخرین نسخه ارتقاء دهید"
+
+#: wp-live-chat-support.php:1765
+msgid "Version 5.0.1"
+msgstr "نسخه 5.0.1"
+
+#: wp-live-chat-support.php:1766
+msgid "to ensure everything is working correctly."
+msgstr "جهت اطمینان از اینکه همه چیز به صورت صحیح کار می کند."
+
+#: wp-live-chat-support.php:1798
+msgid "Congratulations"
+msgstr "تبریک عرض میکنم"
+
+#: wp-live-chat-support.php:1799
+msgid "You are now accepting live chat requests on your site."
+msgstr "حالا شما قادر به قبول درخواست گفتگوی آنلاین در سایت خود می باشید."
+
+#: wp-live-chat-support.php:1800
+msgid "The live chat box has automatically been enabled on your website."
+msgstr "پنجره گفتگوی زنده به صورت خودکار در سایت شما فعال خواهد شد."
+
+#: wp-live-chat-support.php:1801
+msgid "Chat notifications will start appearing once visitors send a request."
+msgstr ""
+"زمانی که بازدید کننده درخواست خود را ارسال نماید، نمایه ی تذکر برای شما "
+"آشکار خواهد شد."
+
+#: wp-live-chat-support.php:1802
+msgid ""
+"You may <a href='?page=wplivechat-menu-settings' target='_BLANK'>modify your "
+"chat box settings here."
+msgstr ""
+"شما می توانید اینجا <a href='?page=wplivechat-menu-settings' "
+"target='_BLANK'> تنظیمات پنجره گفتگوی خود را ویرایش کنید."
+
+#: wp-live-chat-support.php:1803
+msgid "Experiencing issues?"
+msgstr "تجربه کردن مسائل؟"
+
+#: wp-live-chat-support.php:1803
+msgid "Visit our troubleshooting section."
+msgstr "بخش عیب یابی ما را ببینید."
+
+#: wp-live-chat-support.php:1805
+msgid "Hide"
+msgstr "مخفی"
+
+#: wp-live-chat-support.php:1824
+msgid "Agent(s) online"
+msgstr "مسئول (ین) سایت آنلاین هستند."
+
+#: wp-live-chat-support.php:1839
+msgid ""
+"With the <strong>Initiate Chats</strong> Extension for WP Live Chat Support, "
+"you can"
+msgstr ""
+"با ابزار توسعه <strong>Initiate Chats</strong> از پلاگین WP Live Chat "
+"Support شما می توانید"
+
+#: wp-live-chat-support.php:1840 wp-live-chat-support.php:3026
+msgid "see who's online and initiate chats"
+msgstr "ببینید چه کسی برای شروع گفتگوی جدید آنلاین است"
+
+#: wp-live-chat-support.php:1841 wp-live-chat-support.php:3026
+msgid "initiate chats"
+msgstr "شروع گفتگو"
+
+#: wp-live-chat-support.php:1843 wp-live-chat-support.php:3026
+msgid "with your online visitors with the click of a button."
+msgstr "با بازدید کنندگان آنلاین. با کلیک بر روی یک دکمه."
+
+#: wp-live-chat-support.php:1844 wp-live-chat-support.php:1846
+msgid "Buy the Initiate Chats Extension now."
+msgstr "همین حالا ابزار توسعه را بخرید."
+
+#: wp-live-chat-support.php:1892 wp-live-chat-support.php:1959
+msgid "Chat Dashboard"
+msgstr "پیشخوان گفتگو"
+
+#: wp-live-chat-support.php:1895
+msgid ""
+"Please note: This window must be open in order to receive new chat "
+"notifications."
+msgstr ""
+"لطفا توجه کنید: به منظور دریافت نمایه تذکر گفتگوی جدید، این پنجره باید باز "
+"باشد."
+
+#: wp-live-chat-support.php:1907
+msgid "Visitors online"
+msgstr "بازدید کنندگان آنلاین"
+
+#: wp-live-chat-support.php:1919
+msgid "Visitor"
+msgstr "بازدید کننده"
+
+#: wp-live-chat-support.php:1920
+msgid "Time"
+msgstr "زمان"
+
+#: wp-live-chat-support.php:1921
+msgid "Type"
+msgstr "نوع"
+
+#: wp-live-chat-support.php:1922
+msgid "Data"
+msgstr "تاریخ"
+
+#: wp-live-chat-support.php:1923 wp-live-chat-support.php:2449
+msgid "Status"
+msgstr "وضعیت"
+
+#: wp-live-chat-support.php:1924 wp-live-chat-support.php:2450
+msgid "Action"
+msgstr "کنش"
+
+#: wp-live-chat-support.php:1962
+msgid "Oh no!"
+msgstr "وای نه کاکو!"
+
+#: wp-live-chat-support.php:1965
+msgid ""
+"You do not have access to this page as <strong>you are not a chat agent</"
+"strong>."
+msgstr ""
+"شما تا زمانی که یکی از <strong> مسئولین سایت <strong> نباشید قادر به دسترسی "
+"به این صفحه نیستید."
+
+#: wp-live-chat-support.php:2051
+msgid "Previous"
+msgstr "قبلی"
+
+#: wp-live-chat-support.php:2053
+msgid "Active"
+msgstr "فعال"
+
+#: wp-live-chat-support.php:2062
+msgid "Chat with"
+msgstr "گفتگو با"
+
+#: wp-live-chat-support.php:2065
+msgid "End chat"
+msgstr "پلیان گفتگو"
+
+#: wp-live-chat-support.php:2102 wp-live-chat-support.php:2841
+msgid "Add-ons"
+msgstr "افزونه ها"
+
+#: wp-live-chat-support.php:2104
+msgid "Get more add-ons"
+msgstr "افزونه بیشتری دریافت کنید"
+
+#: wp-live-chat-support.php:2110
+msgid "Assign Quick Response"
+msgstr "درخواست پاسخ سریع"
+
+#: wp-live-chat-support.php:2110 wp-live-chat-support.php:3114
+msgid "Select"
+msgstr "انتخاب"
+
+#: wp-live-chat-support.php:2110
+msgid "Add Quick Responses to your Live Chat"
+msgstr "افزودن درخواست پاسخ سریع با گفتگوی آنلاین شما"
+
+#: wp-live-chat-support.php:2110
+msgid "Pro version only"
+msgstr "فقط نسخه پیشرفته"
+
+#: wp-live-chat-support.php:2121
+msgid "type here..."
+msgstr "اینجا بنویسید..."
+
+#: wp-live-chat-support.php:2191
+msgid "User has opened the chat window"
+msgstr "کاربر پنجره گفتگو را باز کرده"
+
+#: wp-live-chat-support.php:2192
+msgid "User has minimized the chat window"
+msgstr "کاربر پنجره گفتگو را به حالت مینیمایز تنظیم کرده"
+
+#: wp-live-chat-support.php:2193
+msgid "User has maximized the chat window"
+msgstr "کاربر پنجره گفتگو را به حالت ماکزیمایز تنظیم کرده"
+
+#: wp-live-chat-support.php:2194
+msgid "The chat has been ended"
+msgstr "گفتگو پایان یافت"
+
+#: wp-live-chat-support.php:2439
+msgid "Delete History"
+msgstr "پاک کردن تاریخچه"
+
+#: wp-live-chat-support.php:2456
+msgid "No chats available at the moment"
+msgstr "در این لحظه هیچ درخواست گفتگویی وجود ندارد"
+
+#: wp-live-chat-support.php:2466
+msgid "View Chat History"
+msgstr "نمایش تاریخچه گفتگو"
+
+#: wp-live-chat-support.php:2466
+msgid "Download Chat History"
+msgstr "دانلود تاریخچه گفتگو"
+
+#: wp-live-chat-support.php:2488
+msgid "WP Live Chat History"
+msgstr "تاریخچه WP Live Chat"
+
+#: wp-live-chat-support.php:2508
+msgid "WP Live Chat Missed Chats"
+msgstr "گفتگو های از دست رفته WP Live Chat "
+
+#: wp-live-chat-support.php:2523
+msgid ""
+"Please update to the latest version of WP Live Chat Support Pro to start "
+"recording any offline messages."
+msgstr ""
+"لطفا به منظور ذخیره پیام های آفلاین، افزونه خود را به WP Live Chat Support "
+"Pro ارتقاء دهید."
+
+#: wp-live-chat-support.php:2526
+msgid "This option is only available in the "
+msgstr "این گزینه فقط زمانی در دسترسترس است که"
+
+#: wp-live-chat-support.php:2526
+msgid "Pro Add-on"
+msgstr "افزونه پیشرفته"
+
+#: wp-live-chat-support.php:2538
+msgid "WP Live Chat Offline Messages"
+msgstr "پیام آفلاین از WP Live Chat"
+
+#: wp-live-chat-support.php:2568
+msgid "You have not received any offline messages."
+msgstr "شما هیچ پیام آفلاینی دریافت نکردید."
+
+#: wp-live-chat-support.php:2661
+msgid "Please click 'Start Chat' to initiate a chat with an agent"
+msgstr ""
+"لطفا جهت گفتگو با یکی از مسئولین سایت، بر روی دکمه \"شروع گفتگو\" کلیک کنید"
+
+#: wp-live-chat-support.php:2744
+msgid "Your settings have been saved."
+msgstr "تنظیمات شما ذخیره شد"
+
+#: wp-live-chat-support.php:2759
+msgid "Thank You for your feedback!"
+msgstr "تشکر از ارسال بازخورد!"
+
+#: wp-live-chat-support.php:2763 wp-live-chat-support.php:2776
+msgid "Thank you for your feedback. We will be in touch soon"
+msgstr "تشکر از ارسال بازخورد. به زودی با شما تماس خواهیم گرفت"
+
+#: wp-live-chat-support.php:2779
+#, fuzzy
+msgid "There was a problem sending your feedback. Please log your feedback on "
+msgstr ""
+"مشکلی برای ارسال بازخورد شما به وجود آمده. لطفا بازخورد خود را وارد کنید"
+
+#: wp-live-chat-support.php:2813
+msgid ""
+"WPLC: set_time_limit() is not enabled on this server. You may experience "
+"issues while using WP Live Chat Support as a result of this. Please get in "
+"contact your host to get this function enabled."
+msgstr ""
+"بر روی سرور میزبان سایت شما WPLC: set_time_limit() فعال نیست. این مسئله ممکن "
+"است شما را حین استفاده از WP Live Chat Support با مشکل مواجه کند. لطفا به "
+"منظور فعال کردن این تابع با مسئول سرور میزبان سایت خود تماس بگیرید."
+
+#: wp-live-chat-support.php:2819
+msgid ""
+"WPLC: Safe mode is enabled on this server. You may experience issues while "
+"using WP Live Chat Support as a result of this. Please contact your host to "
+"get safe mode disabled."
+msgstr ""
+"گزینه Safe mode از تابع WPLC: در تنظیمات هاست شما فعال می باشد. این مسئله "
+"ممکن است شما را حین استفاده از WP Live Chat Support با مشکل مواجه کند. لطفا "
+"جهت غیر فعال کردن این گزینه، با مسئول سرور میزبان سایت خود تماس بگیرید."
+
+#: wp-live-chat-support.php:2841
+msgid "Suggested Plugins"
+msgstr "افزونه های توصیه شده"
+
+#: wp-live-chat-support.php:2852 wp-live-chat-support.php:2853
+#: wp-live-chat-support.php:2854 wp-live-chat-support.php:2859
+msgid "Sola Support Tickets"
+msgstr "تیکت پشتیبانی Sola "
+
+#: wp-live-chat-support.php:2857
+msgid ""
+"The easiest to use Help Desk & Support Ticket plugin. Create a support help "
+"desk quickly and easily with Sola Support Tickets."
+msgstr ""
+"به منظور اتفاده آسانتر از افزونه Help Desk & Support Ticket. توسط Sola "
+"Support Tickets یک اشتراک پشتیبانی ایجاد کنید."
+
+#: wp-live-chat-support.php:2859 wp-live-chat-support.php:2870
+msgid "Get this Plugin"
+msgstr "دریافت این افزونه"
+
+#: wp-live-chat-support.php:2863 wp-live-chat-support.php:2864
+#: wp-live-chat-support.php:2865 wp-live-chat-support.php:2870
+msgid "Nifty Newsletters"
+msgstr "Nifty Newsletters"
+
+#: wp-live-chat-support.php:2868
+msgid ""
+"Create and send newsletters, automatic post notifications and autoresponders "
+"that are modern and beautiful with Nifty Newsletters."
+msgstr ""
+"به کمک افزونه Nifty Newsletters، به راحتی و به صورت پیشرفته \"ایجاد و ارسال "
+"خبرنامه\" - \"ارسال خودکار یادآوری\" - \"پاسخگویی خودکار\"  را انجام دهید."
+
+#: wp-live-chat-support.php:2902
+msgid "Price:"
+msgstr "قیمت:"
+
+#: wp-live-chat-support.php:2903
+msgid "All"
+msgstr "همه"
+
+#: wp-live-chat-support.php:2904
+msgid "Free"
+msgstr "مجانی"
+
+#: wp-live-chat-support.php:2905
+msgid "Paid"
+msgstr "پرداخت شده"
+
+#: wp-live-chat-support.php:2908
+msgid "For:"
+msgstr "برای:"
+
+#: wp-live-chat-support.php:2909
+msgid "Both"
+msgstr "هردو"
+
+#: wp-live-chat-support.php:2910
+msgid "Free version"
+msgstr "نسخه مجانی"
+
+#: wp-live-chat-support.php:2911
+msgid "Pro version"
+msgstr "نسخه پیشرفته"
+
+#: wp-live-chat-support.php:2947
+msgid "Already installed"
+msgstr "پیش از این نصب شده"
+
+#. Plugin Name of the plugin/theme
+#: wp-live-chat-support.php:2974
+msgid "WP Live Chat Support"
+msgstr "WP Live Chat Support"
+
+#: wp-live-chat-support.php:2977
+msgid "Documentation"
+msgstr "مستندات"
+
+#: wp-live-chat-support.php:2979
+msgid ""
+"Getting started? Read through some of these articles to help you along your "
+"way."
+msgstr ""
+"شروع کردید؟ به منظور کمک به شما جهت پیمودن این مسیر، تعدادی از این مقاله ها "
+"را مطالعه کنید."
+
+#: wp-live-chat-support.php:2980
+msgid "Documentation:"
+msgstr "مستندات:"
+
+#: wp-live-chat-support.php:2982
+msgid "Minimum System Requirements"
+msgstr "حداقا مشخصات سیستم مورد نیاز"
+
+#: wp-live-chat-support.php:2983
+msgid "Do I have to be logged into the dashboard to chat with visitors?"
+msgstr "آیا برای گفتگو با بازدید کنندگان، نیاز به ورود به پیشخوان هست؟"
+
+#: wp-live-chat-support.php:2984
+msgid "What are Quick Responses?"
+msgstr "Quick Responses چیست؟"
+
+#: wp-live-chat-support.php:2985
+msgid "Can I use this plugin on my multi-site?"
+msgstr "آیا امکان استفاده از این افزونه در حالت multi-site وجود دارد؟"
+
+#: wp-live-chat-support.php:2986
+msgid "How do I disable APC Object Cache?"
+msgstr "چگونه می توانم  APC Object Cache را غیر فعال کنم؟ "
+
+#: wp-live-chat-support.php:2987
+msgid "Do you have a mobile app?"
+msgstr "آیا شما اپلیکیشن موبایل هم دارید؟"
+
+#: wp-live-chat-support.php:2988
+msgid "How do I check for JavaScript errors on my site?"
+msgstr "چگونه می توانم خطاهای JavaScript را در سایت خود بررسی کنم؟"
+
+#: wp-live-chat-support.php:2992
+msgid "Troubleshooting"
+msgstr "عیب یابی"
+
+#: wp-live-chat-support.php:2994
+#, fuzzy
+msgid ""
+"WP Live Chat Support  has a diverse and wide range of features which may, "
+"from time to time, run into conflicts with the thousands of themes and other "
+"plugins on the market."
+msgstr ""
+"WP Live Chat Support دارای طیف متنوع و گسترده ای از ویژگی های است که ممکن "
+"است، از زمان به زمان، اجرا را به درگیری با هزاران نفر از تم ها و پلاگین های "
+"دیگر در بازار است."
+
+#: wp-live-chat-support.php:2995
+msgid "Common issues:"
+msgstr "ایرادهای معمول:"
+
+#: wp-live-chat-support.php:2997
+msgid "The chat box doesnt show up"
+msgstr "پنجره گفتگو نمایش داده نمی شود"
+
+#: wp-live-chat-support.php:2998
+msgid "The chat window disappears when I logout or go offline"
+msgstr ""
+"زمانی که از سایت خارج می شوم یا به حالت آفلاین در می آیم، پنجره گفتگو پنهان "
+"می شود"
+
+#: wp-live-chat-support.php:2999
+msgid "This chat has already been answered. Please close the chat window"
+msgstr "به این گفتگو پاسخ داده شده است. لطفا پنجره گفتگو را ببندید"
+
+#: wp-live-chat-support.php:3000
+msgid "Messages only show when I refresh the chat window"
+msgstr "پیام ها فقط زمانی قابل مشاهده است که من پنجره گفتگو را refresh میکنم"
+
+#: wp-live-chat-support.php:3001
+msgid "I'm not getting any notifications of a new chat"
+msgstr "من هنگام شروع گفتگوی جدید، هیچ پیام هشداری دریافت نمی کنم"
+
+#: wp-live-chat-support.php:3002
+msgid "The chat window never goes offline"
+msgstr "پنجره گفتگو هیچگاه به حالت آفلاین در نمی آید"
+
+#: wp-live-chat-support.php:3008
+msgid "Still need help? Use one of these links below."
+msgstr "هنوز هم به کمک بیشتری نیاز دارید؟ از یکی از لینک های زیر استفاده کنید."
+
+#: wp-live-chat-support.php:3010
+msgid "Support desk"
+msgstr "پنل پشتیبانی"
+
+#: wp-live-chat-support.php:3011
+msgid "Contact us"
+msgstr "تماس با ما"
+
+#: wp-live-chat-support.php:3026 wp-live-chat-support.php:3291
+#: wp-live-chat-support.php:3355
+msgid "Initiate Chats"
+msgstr "شروع گفتگو"
+
+#: wp-live-chat-support.php:3026
+msgid ""
+"With the <strong>Initiate Chats Extension</strong> of WP Live Chat Support, "
+"you can"
+msgstr "توسط افزونه <strong>Initiate Chats Extension</strong> شما می توانید"
+
+#: wp-live-chat-support.php:3026 wp-live-chat-support.php:3027
+msgid "Buy the Initiate Chats Extension now (once off payment)."
+msgstr ""
+"همین حالا در ازای پرداخت وجه افزونه Initiate Chats Extension را خریداری کنید."
+
+#: wp-live-chat-support.php:3027
+msgid "Multiple Chats"
+msgstr "گفتگو با چند نفر"
+
+#: wp-live-chat-support.php:3027
+msgid "With the Pro add-on of WP Live Chat Support, you can"
+msgstr "توسط افزونه های پیشرفته WP Live Chat Support شما می توانید"
+
+#: wp-live-chat-support.php:3027
+msgid "accept and handle multiple chats."
+msgstr "دریافت گفتگو با چند نفر"
+
+#: wp-live-chat-support.php:3028
+msgid "Add unlimited agents"
+msgstr "افزودن تعداد نا محدود مسئول پاسخ گویی"
+
+#: wp-live-chat-support.php:3028
+msgid ""
+" with the <strong>Mutliple Agents Extension</strong> of WP Live Chat Support"
+msgstr "با <strong>Mutliple Agents Extension</strong> از WP Live Chat Support"
+
+#: wp-live-chat-support.php:3028
+#, fuzzy
+msgid "(once off payment)."
+msgstr "یک بار پرداخت کنید"
+
+#: wp-live-chat-support.php:3042
+#, php-format
+msgid ""
+"Thank you for using <a href=\"%1$s\" target=\"_blank\">WP Live Chat Support</"
+"a>! Please <a href=\"%2$s\" target=\"_blank\">rate us</a> on <a href=\"%2$s"
+"\" target=\"_blank\">WordPress.org</a>"
+msgstr ""
+"تشکر از شما به خاطر استفاده از <a href=\"%1$s\" target=\"_blank\">WP Live "
+"Chat Support</a>! Please <a href=\"%2$s\" target=\"_blank\">rate us</a>! "
+"لطفا <a href=\"%2$s\" target=\"_blank\">rate us</a> در <a href=\"%2$s\" "
+"target=\"_blank\">WordPress.org</a>"
+
+#: wp-live-chat-support.php:3047
+msgid "WP Live Chat Support is a product of"
+msgstr "WP Live Chat Support تولید شده توسط"
+
+#: wp-live-chat-support.php:3089
+#, fuzzy
+msgid "Current Users that are Chat Agents"
+msgstr "Current Users that are Chat Agents"
+
+#: wp-live-chat-support.php:3099
+msgid "Online"
+msgstr "آنلاین"
+
+#: wp-live-chat-support.php:3120
+msgid "Administrator"
+msgstr "مدیر کل"
+
+#: wp-live-chat-support.php:3129
+msgid "Editor"
+msgstr "ویرایشگر"
+
+#: wp-live-chat-support.php:3138
+msgid "Author"
+msgstr "نویسنده"
+
+#: wp-live-chat-support.php:3149
+msgid "Add New Agent"
+msgstr "افزودن مسئول جدید"
+
+#: wp-live-chat-support.php:3150
+msgid "Add Agent"
+msgstr "افزودن مسئول"
+
+#: wp-live-chat-support.php:3151
+msgid "Add as many agents as you need with the "
+msgstr "به هر تعداد که دوست دارید مسئول اضافه کنید با"
+
+#: wp-live-chat-support.php:3151
+msgid "Multiple Agents Extension."
+msgstr "Multiple Agents Extension."
+
+#: wp-live-chat-support.php:3155
+#, php-format
+msgid "Change the default chat agent from <strong>%1$s</strong> to "
+msgstr "مسئول پیش فرض گفتگو را از <strong>%1$s</strong> تغییر دهید به"
+
+#: wp-live-chat-support.php:3246
+msgid "API Key"
+msgstr "API Key"
+
+#: wp-live-chat-support.php:3249
+msgid "Verify"
+msgstr "بررسی"
+
+#: wp-live-chat-support.php:3252
+msgid "Status: "
+msgstr "وضعیت:"
+
+#: wp-live-chat-support.php:3255
+msgid "Valid"
+msgstr "صحیح"
+
+#: wp-live-chat-support.php:3256 wp-live-chat-support.php:3260
+msgid "Manage this extension"
+msgstr "مدیریت این افزونه"
+
+#: wp-live-chat-support.php:3259
+msgid "Invalid"
+msgstr "غلط"
+
+#: wp-live-chat-support.php:3265
+msgid "Linked Domains"
+msgstr "Linked Domains"
+
+#: wp-live-chat-support.php:3300 wp-live-chat-support.php:3364
+msgid "Initiate a chat with any visitor at any time."
+msgstr "شروع گفتگو با هر بازدید کننده ای در هر زمانی."
+
+#: wp-live-chat-support.php:3302 wp-live-chat-support.php:3323
+#: wp-live-chat-support.php:3344 wp-live-chat-support.php:3366
+#: wp-live-chat-support.php:3387 wp-live-chat-support.php:3408
+msgid "Get this extension"
+msgstr "این افزونه را دریافت کنید"
+
+#: wp-live-chat-support.php:3312
+msgid "Mobile & Desktop App"
+msgstr "نرم افزار موبایل و ویندوز دسکتاپ"
+
+#: wp-live-chat-support.php:3321
+msgid ""
+"Answer chats directly from your mobile phone or dekstop with our mobile app "
+"and desktop client"
+msgstr ""
+"توسط نرم افزار موبایل یا ویندوز خود به صورت مستقیم به گفتگو ها پاسخ دهید"
+
+#: wp-live-chat-support.php:3333
+msgid "Cloud Server"
+msgstr "Cloud Server"
+
+#: wp-live-chat-support.php:3342
+msgid ""
+"Reduce the resources required by your server - use our cloud server to host "
+"your chats."
+msgstr ""
+"با استفاده از سرویس ابری (Cloud Server) ما - اسفاده از منابع سرور خود را "
+"کاهش دهید."
+
+#: wp-live-chat-support.php:3376
+msgid "Advanced Chat Box Control"
+msgstr "کنترلر پیشرفته مدیریت پنجره گفتگو"
+
+#: wp-live-chat-support.php:3385
+msgid ""
+"Add your company logo, avatar and name to the chat box and add more advanced "
+"features."
+msgstr ""
+"افزودن لوگوی شرکت، نماد شرکت، نام شرکت و بسیاری از ابزارهای پیشرفته در پنجره "
+"گفتگو."
+
+#: wp-live-chat-support.php:3397
+msgid "Include and Exclude Pages"
+msgstr "حذف و اضافه کردن صفحات"
+
+#: wp-live-chat-support.php:3406
+msgid ""
+"Control where the chat box is displayed on your website. Choose which pages "
+"to include and/or exclude."
+msgstr ""
+"تعیین کنید که پنجره گفتگو در چه مکانی از سایت نمایش داده شود. انتخاب کنید چه "
+"صفحه هایی از سایت شما پنجره گفتگو داشته باشد."
+
+#: wp-live-chat-support.php:3426 wp-live-chat-support.php:3447
+msgid "Relevant Extensions"
+msgstr "افزونه های مرتبط"
+
+#: wp-live-chat-support.php:3474
+msgid "Chat ID"
+msgstr "شناسه گفتگو"
+
+#: wp-live-chat-support.php:3475
+msgid "From"
+msgstr "از"
+
+#: wp-live-chat-support.php:3477
+#, fuzzy
+msgid "Timestamp"
+msgstr "زمان انتشار"
+
+#: wp-live-chat-support.php:3478
+msgid "Origin"
+msgstr "مبدا"
+
+#: wp-live-chat-support.php:3483
+msgid "user"
+msgstr "کاربر"
+
+#: wp-live-chat-support.php:3485
+msgid "agent"
+msgstr "مسئول"
+
+#: wp-live-chat-support.php:3530
+msgid ""
+"Your API Key is Invalid. You are not eligible for future updates. Please "
+"enter your API key <a href=\"admin.php?page=wplivechat-menu-api-keys-page"
+"\">here</a>."
+msgstr ""
+"API Key شما اشتباه است. شما برای به روز رسانی های بعدی واجد شرایط نیستید. "
+"لطفا API Key خود را اینجا<a href=\"admin.php?page=wplivechat-menu-api-keys-"
+"page\">here</a> وارد کنید."
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://www.wp-livechat.com"
+msgstr "http://www.wp-livechat.com"
+
+#. Description of the plugin/theme
+msgid ""
+"The easiest to use website live chat plugin. Let your visitors chat with you "
+"and increase sales conversion rates with WP Live Chat Support. No third "
+"party connection required!"
+msgstr ""
+"راحت ترین پلاگین گفتگوی آنلاین برای سایت شما. به کمک WP Live Chat Support به "
+"بازدید کنندگانه سایتتان اجازه بدهید با شما گفتگو کنند و بدین وسیله نرخ فروش "
+"محصولات خود را افزایش دهید. بدون نیاز به اتصال به شرکت های ثالث!"
+
+#. Author of the plugin/theme
+msgid "WP-LiveChat"
+msgstr "WP-LiveChat"

@@ -1,0 +1,18 @@
+[05-May-2016 00:12:02 UTC] WordPress database error Lost connection to MySQL server during query for query 
+		SELECT postmeta.post_id FROM wp_postmeta as postmeta
+		LEFT JOIN wp_postmeta as postmeta_2 ON postmeta.post_id = postmeta_2.post_id
+		LEFT JOIN wp_postmeta as postmeta_3 ON postmeta.post_id = postmeta_3.post_id
+		WHERE postmeta.meta_key = '_sale_price_dates_from'
+		AND postmeta_2.meta_key = '_price'
+		AND postmeta_3.meta_key = '_sale_price'
+		AND postmeta.meta_value > 0
+		AND postmeta.meta_value < '1462407041'
+		AND postmeta_2.meta_value != postmeta_3.meta_value
+	 made by do_action_ref_array, call_user_func_array, wc_scheduled_sales
+[06-Jul-2016 06:25:09 UTC] WordPress database error Lost connection to MySQL server during query for query SELECT   wp_posts.* FROM wp_posts  WHERE 1=1  AND wp_posts.post_type = 'cycloneslider' AND ((wp_posts.post_status = 'publish'))  ORDER BY wp_posts.post_date DESC  made by require('wp-blog-header.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('plugins_loaded'), call_user_func_array, cycloneslider_init, CycloneSlider_Plugin->run, CycloneSlider_Plugin->offsetGet, cycloneslider_service_export_page, CycloneSlider_Data->get_sliders, get_posts, WP_Query->query, WP_Query->get_posts
+[07-Jul-2016 14:15:11 America/Chicago] PHP Warning:  require(ABSPATHwp-includes/load.php): failed to open stream: No such file or directory in /home4/o0d1n2s7/public_html/wp-settings.php on line 21
+[07-Jul-2016 14:15:11 America/Chicago] PHP Warning:  require(ABSPATHwp-includes/load.php): failed to open stream: No such file or directory in /home4/o0d1n2s7/public_html/wp-settings.php on line 21
+[07-Jul-2016 14:15:11 America/Chicago] PHP Fatal error:  require(): Failed opening required 'ABSPATHwp-includes/load.php' (include_path='.:/opt/php55/lib/php') in /home4/o0d1n2s7/public_html/wp-settings.php on line 21
+[14-Jul-2016 10:04:39 America/Chicago] PHP Warning:  require(ABSPATHwp-includes/load.php): failed to open stream: No such file or directory in /home4/o0d1n2s7/public_html/wp-settings.php on line 21
+[14-Jul-2016 10:04:39 America/Chicago] PHP Warning:  require(ABSPATHwp-includes/load.php): failed to open stream: No such file or directory in /home4/o0d1n2s7/public_html/wp-settings.php on line 21
+[14-Jul-2016 10:04:39 America/Chicago] PHP Fatal error:  require(): Failed opening required 'ABSPATHwp-includes/load.php' (include_path='.:/opt/php55/lib/php') in /home4/o0d1n2s7/public_html/wp-settings.php on line 21

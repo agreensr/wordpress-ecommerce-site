@@ -1,0 +1,81 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: woo-extra-flat-rate 1.1.2\n"
+"POT-Creation-Date: 2016-03-31 13:31+0530\n"
+"PO-Revision-Date: 2016-03-31 13:33+0530\n"
+"Last-Translator: \n"
+"Language-Team: Multidots\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/partials/woo-extra-flat-rate-admin-display.php:54
+msgid "Extra Flat Rate"
+msgstr "Extra Flat Rate"
+
+#: admin/partials/woo-extra-flat-rate-admin-display.php:86
+msgid "Shipping Display Mode"
+msgstr "Shipping Display Mode"
+
+#: admin/partials/woo-extra-flat-rate-admin-display.php:92
+msgid "Display shipping methods with \"radio\" buttons"
+msgstr "Display shipping methods with \"radio\" buttons"
+
+#: admin/partials/woo-extra-flat-rate-admin-display.php:95
+msgid "Display shipping methods in a dropdown"
+msgstr "Display shipping methods in a dropdown"
+
+#: admin/partials/woo-extra-flat-rate-admin-display.php:103
+msgid "Save Display Mode"
+msgstr "Save Display Mode"
+
+#: admin/partials/woo-extra-flat-rate-admin-display.php:108
+msgid "Extra Flat Rates"
+msgstr "Extra Flat Rates"
+
+#: admin/partials/woo-extra-flat-rate-admin-display.php:113
+msgid "Flat&nbsp;Rate&nbsp;Name"
+msgstr "Flat&nbsp;Rate&nbsp;Name"
+
+#: admin/partials/woo-extra-flat-rate-admin-display.php:114
+msgid "Rate&nbsp;"
+msgstr "Rate&nbsp;"
+
+#: admin/partials/woo-extra-flat-rate-admin-display.php:124
+msgid "Flat rate ID"
+msgstr "Flat rate ID"
+
+#: admin/partials/woo-extra-flat-rate-admin-display.php:142
+msgid "Insert row"
+msgstr "Insert row"
+
+#: admin/partials/woo-extra-flat-rate-admin-display.php:143
+msgid "Remove selected row(s)"
+msgstr "Remove selected row(s)"
+
+#: admin/partials/woo-extra-flat-rate-admin-display.php:148
+msgid "Please enter valid rate"
+msgstr "Please enter valid rate"
+
+#: admin/partials/woo-extra-flat-rate-admin-html-output.php:313
+msgid "Select a page&hellip;"
+msgstr "Select a page&hellip;"
+
+#: public/template/woocommerce/cart/cart-shipping.php:63
+msgid "Shipping costs will be calculated once you have provided your address."
+msgstr ""
+"Shipping costs will be calculated once you have provided your address."
+
+#: public/template/woocommerce/cart/cart-shipping.php:65
+msgid ""
+"There are no shipping methods available. Please double check your address, "
+"or contact us if you need any help."
+msgstr ""
+"There are no shipping methods available. Please double check your address, "
+"or contact us if you need any help."

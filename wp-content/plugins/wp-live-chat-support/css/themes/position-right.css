@@ -1,0 +1,35 @@
+
+#wplc_hovercard.modern {
+    bottom: 300px;
+    right: 93px;
+
+}
+
+
+
+#wplc_hovercard:before {
+content: "";
+    position: absolute;
+    right: -9px;
+    top: 40px;
+    border-width: 9px 0 9px 9px;
+    border-style: solid;
+    border-color: transparent #ccc;
+    display: block;
+    width: 0;
+    left:auto;
+    bottom:auto;
+}
+#wplc_hovercard:after {
+content: "";
+    position: absolute;
+    right: -8px;
+    top: 41px;
+    border-width: 8px 0 8px 8px;
+    border-style: solid;
+    border-color: transparent #FFF;
+    display: block;
+    width: 0;
+    left:auto;
+    bottom:auto;
+}

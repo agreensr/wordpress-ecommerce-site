@@ -1,0 +1,567 @@
+#wp-live-chat textarea {
+    width: 100%;
+    height: 100px;
+}
+#wp-live-chat input, #wp-live-chat textarea {
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 2px;
+    color: #2b2b2b;
+    padding: 8px 10px 7px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box; 
+    
+}
+#wplc_chatbox {
+    top: 35px;
+    bottom: 103px;
+    /* height: 100%; */
+    z-index: 99999;
+    position: absolute;
+    overflow-y: auto;
+    padding:10px;
+    width:100%;
+}
+#wp-live-chat-inner-container {
+    padding:16px;
+
+}
+
+#wp-live-chat td {
+    padding: 5px;
+    padding-left: 10px;
+}
+
+#wp-live-chat table {
+    border: 0 !important;
+}
+
+#wp-live-chat table td {
+    border: 0 !important;
+}
+#wplc_user_message_div {
+    min-height: 100px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    padding: 10px;
+    border-top:1px solid #eee;
+}
+}
+
+#wp-live-chat h4 {
+    font-size: 20px;
+    margin: 3px;
+}
+
+#wp-live-chat p {
+    font-size: 14px;
+    margin: 3px;
+}
+
+#wp-live-chat #wplc-sb {
+    font-size: 14px;
+    font-weight: 700;
+}
+
+#wp-live-chat-4 {
+    position: fixed;
+    top: 0;
+    right: 0;
+    height: 100%;
+    width: 368px;
+}
+#wp-live-chat-3 {
+    padding: 10px;
+    text-align: center;
+}
+
+#wp-live-chat {
+    position: fixed;
+    z-index: 28000000;
+    display: block;
+    border-radius: 5px 5px 0 0 ;
+    color:#999;
+}
+
+#wp-live-chat-1 {
+    padding: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: #000;
+    text-align:center;
+}
+
+#wp-live-chat-minimize {
+    position: absolute;
+    right: 3px;
+    top: 7px;
+    cursor: pointer;
+    height: 20px;
+    padding: 2px 3px;
+    border-radius: 2px;
+    background-color: rgba(0, 0, 0, 0.4);
+    font-size: 17px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    width: 20px;
+    padding-top: 6px;
+    color: #FFF;
+    font-weight: normal;
+    z-index: 92354389047593475893475;
+}
+
+#wp-live-chat-close {
+    position: absolute;
+    right: 5px;
+    top: 4px;
+    cursor: pointer;
+    border-radius: 2px;
+    background-color: rgba(0, 0, 0, 0.4);
+    font-size: 12px;
+    vertical-align: middle;
+    height: 14px;
+    width: 14px;
+    text-align: center;
+    vertical-align: bottom;
+    padding-top: 1px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box; 
+}
+
+
+#wp-live-chat-2-info {
+    font-size: 1em;
+    display: block;
+    width: 80%;
+    overflow: hidden;
+    text-align: center;
+    margin: 0 auto;
+    padding-bottom:10px;
+}
+#wp-live-chat-2-inner {
+    padding: 20px 12px 26px;
+    background-color: #fff;
+    overflow: hidden;
+    box-shadow: 0 0 3px rgba(0,0,0,.2);
+    border-radius: 5px;
+}
+
+#wp-live-chat-2-img {
+    padding-bottom: 5px;
+}
+
+#wplc_chatmsg {
+    width: 100%;
+}
+
+.wplc_offline {
+    font-size: 1.1em;
+    font-weight: 700;
+}
+
+.wplc_logo_class {
+    max-width: 250px;
+    max-height:180px;
+}
+#wplc_logo {
+    position: absolute;
+    width: 100%;
+    top: 41px;
+}
+#wp-live-chat-header{
+    padding: 10px 0 0;
+    margin-bottom:25px;
+    border-radius: 25px 25px;
+    position:relative;
+    width:50px;
+    height:50px;
+    -webkit-box-shadow: 0px 0px 5px 0px rgba(50, 50, 50, 0.5);
+    -moz-box-shadow:    0px 0px 5px 0px rgba(50, 50, 50, 0.5);
+    box-shadow:         0px 0px 5px 0px rgba(50, 50, 50, 0.5);
+    cursor:pointer;
+}
+
+#wp-live-chat-2 {
+    
+    z-index: 2147483000;
+    position: fixed;
+    height: 100%;
+    width: 368px;
+    bottom: 0;
+    right: 0;
+    background: #fafafb;
+    background: rgba(250,250,251,.98);
+    border-left: 1px solid #dadee2;
+    box-shadow: 0 0 4px 1px rgba(0,0,0,.07);
+    
+
+
+}
+#wp-live-chat-2 input{
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-size: 15px;
+    line-height: 32px;
+    color: #60686e;
+    width: 100%;
+    border: 1px solid #e4e5e7;
+    border-radius: 2px;
+    background-color: #fff;
+    margin-bottom:5px;
+}
+.wplc-clear-float-message{
+    clear: both;
+}
+
+#wplc_message {
+    background: #fff;
+    font-weight: 400;
+    color: #455a64;
+    resize: none;
+    border: none;
+    margin-bottom:10px;
+}
+
+
+#wplc_message_div{
+    text-align: center;
+}
+#wp-live-chat-inner-image-div{
+    overflow: hidden;
+    height: 32px;
+}
+
+.wplc_close.wplc_left #wp-live-chat-1{
+    -ms-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -webkit-transform: rotate(90deg);
+    transform: rotate(90deg);
+    -ms-transform-origin: left top 0;
+    -moz-transform-origin: left top 0;
+    -webkit-transform-origin: left top 0;
+    transform-origin: left top 0;
+    float: left;
+    width: 195px;
+    position: absolute;
+    top: 27px;
+    padding-left: 0;
+    left: 39px;
+}
+.wplc_left #wp-live-chat-header{
+    border-radius: 25px 25px;
+}
+.wplc_close.wplc_left #wp-live-chat-header{
+    position: absolute;
+    top: 0;
+    width: 50px;
+    bottom: 0;
+    right: 0;
+    left: 15px;
+}
+.wplc_open.wplc_left #wp-live-chat-header{
+    border-radius: 0px 5px 0px 0;
+}
+
+.wplc_close.wplc_left .wp-live-chat-wrapper, .wplc_close.wplc_right .wp-live-chat-wrapper{
+    position: relative;
+    height: 250px;
+}
+.wplc_left{
+    border-radius: 0px 5px 5px 0 !important;
+}
+.wplc_close.wplc_left{
+    padding-right: 45px;
+    height: 220px;
+}
+
+
+.wplc_close.wplc_right #wp-live-chat-1{
+    -ms-transform: rotate(-90deg);
+    -moz-transform: rotate(-90deg);
+    -webkit-transform: rotate(-90deg);
+    transform: rotate(-90deg);
+    -ms-transform-origin: 0 0 0;
+    -moz-transform-origin: 0 0 0;
+    -webkit-transform-origin: 0 0 0;
+    transform-origin: 0 0 0;
+    float: left;
+    width: 180px;
+    padding:0 !important;
+    bottom: 0;
+    position: absolute;
+    left: 8px;
+}
+
+.wplc_close.wplc_right #wp-live-chat-header{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+}
+
+.wplc_close.wplc_right{
+    padding-left: 75px;
+    height: 220px;
+    border-radius: 5px 0px 0px 5px !important;
+}
+.wplc_open.wplc_right #wp-live-chat-header{
+    border-radius: 5px 0px 0px 0;
+}
+.wplc_right{
+    border-radius: 5px 0px 0px 5px !important;
+}
+.wplc_close.wplc_left #wp-live-chat-image{
+    top: 25px;
+    left: 35px;
+}
+.wplc_close.wplc_right #wp-live-chat-image {
+    bottom: 18px;
+    left: initial;
+    right: 38px;
+    top: initial;
+}
+
+
+
+
+.wplc-admin-message { 
+    
+    padding:10px;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+    border: 1px solid #666;
+    margin-top:2px;
+    background-color:#666;
+    display: inline-block;
+    float: left;
+    clear:both;
+    margin-bottom: 3px;
+    position:relative;   
+    left:32px; 
+    color:#FFF;
+    max-width:298px;
+    word-wrap: break-word;
+}
+.wplc-admin-message-avatar {
+    position: absolute;
+    left: -38px;
+    border-radius: 15px;
+}
+#wplc_chatbox_header {
+    position: absolute;
+    background-color: #FFF;
+    background: rgba(255,255,255,.98);
+    top: 0;
+    right: 0;
+    height: 35px;
+    width: 367px;
+    border-bottom: 1px solid #eee;
+}
+.wplc-admin-message:before {
+    display: block;
+    width: 0;
+    top: 20px;
+    bottom: auto;
+    left: auto;
+    left: -7px;
+    border-width: 6px 7px 6px 0;
+    border-color: transparent #666;
+    content: "";
+    position: absolute;
+    border-style: solid;
+}
+
+.wplc-user-message { 
+    
+    padding:10px;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+    border: 1px solid #ffdb99;
+    margin-top:2px;
+    background-color:#ffdb99;
+    color:#000;
+    display: inline-block;
+    float: right;
+    clear:both;
+    margin-bottom: 3px;
+    position: relative;
+    right:30px;
+    max-width:300px;
+    word-wrap: break-word;
+
+}
+
+.chat_time {
+    display: block;
+    /* width: 100%; */
+    /* text-align: center; */
+    font-size: 0.8em;
+    color: #ccc;
+    clear: both;
+    position: relative;
+    right: 30px;
+    text-align: right;
+}
+
+.wplc-user-message hr, .wplc-admin-message hr{
+    margin-bottom: 0px !important;
+}
+.wplc-user-message-avatar {
+    position: absolute;
+    right: -40px;
+    border-radius: 15px;
+}
+
+
+.wplc-user-message:before {
+    display: block;
+    width: 0;
+    top: 20px;
+    bottom: auto;
+    left: auto;
+    right: -7px;
+    border-width: 6px 0 6px 7px;
+    border-color: transparent #ffdb99;
+    content: "";
+    position: absolute;
+    border-style: solid;
+}
+
+#wplc_hovercard { 
+    position: fixed;
+    bottom: 96px;
+    right: 75px;
+    width: 300px;
+    height: 145px;
+    border: 1px solid #ccc ;
+    background-color: #FFF;
+    border-radius: 5px;
+    z-index: 9999999;
+}
+
+#wplc_hovercard:before {
+    content: "";
+    position: absolute;
+    bottom: -9px;
+    left: 240px;
+    border-width: 9px 9px 0;
+    border-style: solid;
+    border-color: #ccc transparent;
+    display: block;
+    width: 0;}
+#wplc_hovercard:after {
+    content: "";
+    position: absolute;
+    bottom: -8px;
+    left: 241px;
+    border-width: 8px 8px 0;
+    border-style: solid;
+    border-color: #fafafb transparent;
+    display: block;
+    width: 0;
+}
+
+.wplc_button_standard {
+    border: 1px solid #ED832F;
+    background-color: #ED832F;
+    opacity:0.9;
+
+}
+.wplc_button_standard:hover {
+    border: 1px solid #ED832F;
+    background-color: #ED832F;
+    opacity:0.7;
+}
+
+.wplc_button_standard:focus {
+    border: 1px solid #ED832F;
+    background-color: #ED832F;
+    opacity:0.7;
+}
+
+
+#wplc_hovercard_min {
+    position: absolute;
+    width: 61px;
+    height: 18px;
+    right: 0px;
+    top: -25px;
+    font-size: 9px;
+    text-align: center;
+    border-radius: 9px;
+    color: #fff;
+    cursor: pointer;
+}
+#wplc_hovercard_bottom{ 
+    border-top: 1px solid #ccc;
+    padding-top: 10px;
+    height: 43px;
+    border-bottom-right-radius: 5px;
+    background-color: #fafafb;
+    border-bottom-left-radius: 5px;
+}
+#wplc_hovercard_content { 
+    padding:15px;
+    height:100px;
+    box-shadow: 0 1px 1px #f0f0f1;
+}
+
+/* named after the famous words uttered by The Dylan at Code Cabin */
+#speeching_button {
+    padding: 5px;
+    font-size: 12px;
+    text-transform: none;
+    float: right;
+    margin-right: 15px;
+}
+
+#wplc_first_message {
+    display:block;
+
+
+}
+#wplc_first_message strong {
+    display:block;
+    clear:right;
+}
+
+.wplc_hovercard_content_left {
+    float: left;
+    display: block;
+    height: 60px;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 80px;
+}
+.wplc_hovercard_content_right {
+    float: left;
+    display: block;
+    /* margin-left: 30px; */
+    /* padding-left: 20px; */
+    font-size: 0.8em;
+    word-wrap: break-word;
+    height: 70px;
+    width: 188px;
+}
+.wplc_left_logo {
+    width: 60px;
+    height: 60px;
+    border-radius: 30px;
+}
+
+.wplc_hovercard_content_right .wplc_offline {
+    font-size:0.9em;
+    font-weight:bold;
+}
+
+#wplc_message_div {
+    margin-top: 20px;
+}
+#wp-live-chat-2-inner #wplc_start_chat_btn {
+    width:100%;
+}
